@@ -1,5 +1,6 @@
 # Table of contents
 
-* [Home](README.md)
-* [Psychology](psychology.md)
-
+* [Coding](Coding.md)
+* [Science](Science.md)
+* [Startup](startups.md)
+* [Writing](writing.md)
