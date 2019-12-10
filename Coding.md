@@ -9,6 +9,9 @@
 * [Version control for databases: save, restore, and archive snapshots of your database from the command line](https://github.com/infostreams/db)
 * [L-Systems](https://jsantell.com/l-systems)
 
+### Vim
+* [Character encoding tricks for ViM](https://spin.atomicobject.com/2011/06/21/character-encoding-tricks-for-vim/)
+
 ### Golang
 * [How I investigated memory leaks in Go using pprof on a large codebase](https://www.freecodecamp.org/news/how-i-investigated-memory-leaks-in-go-using-pprof-on-a-large-codebase-4bec4325e192/)
 
