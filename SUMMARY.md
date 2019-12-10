@@ -2,5 +2,7 @@
 
 * [Coding](Coding.md)
 * [Science](Science.md)
-* [Startup](startups.md)
-* [Writing](writing.md)
+* [Startup](Startups.md)
+* [Writing](Writing.md)
+* [Interesting stuff](Stuff.md)
+* [Music](Music.md)
