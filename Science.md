@@ -1,9 +1,15 @@
 # Science
 
-# Technology
+## Systems
+* [CAP theorem](https://en.wikipedia.org/wiki/CAP_theorem)
+* [What is the CAP theorem](https://www.educative.io/edpresso/what-is-the-cap-theorem)
+
+## Technology
 
 * [distributed.net was the Internet's first general-purpose distributed computing project.](http://www.distributed.net/Main_Page)
 * [GitHub Archive Program](https://archiveprogram.github.com/)
+* [Analog computer](https://www.righto.com/2019/09/reverse-engineering-precision-op-amps.html)
+* [Ultimate talk to Apollo Computer Guidance (video)](https://www.youtube.com/watch?v=xx7Lfh5SKUQ)
 
 ## Medicine
 
