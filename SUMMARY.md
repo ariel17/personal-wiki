@@ -6,3 +6,4 @@
 * [Writing](Writing.md)
 * [Interesting stuff](Stuff.md)
 * [Music](Music.md)
+* [Games](Games.md)
