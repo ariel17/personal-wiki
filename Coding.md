@@ -8,12 +8,16 @@
 ## Tools
 * [Version control for databases: save, restore, and archive snapshots of your database from the command line](https://github.com/infostreams/db)
 * [L-Systems](https://jsantell.com/l-systems)
+* [It is 2019. Update Your Footer.](http://updateyourfooter.com/)
 
 ### Vim
 * [Character encoding tricks for ViM](https://spin.atomicobject.com/2011/06/21/character-encoding-tricks-for-vim/)
 
 ### Golang
 * [How I investigated memory leaks in Go using pprof on a large codebase](https://www.freecodecamp.org/news/how-i-investigated-memory-leaks-in-go-using-pprof-on-a-large-codebase-4bec4325e192/)
+
+## Javascript
+* [Why is JavaScript not compiled to bytecode before sending over the network?](https://softwareengineering.stackexchange.com/questions/402250/why-is-javascript-not-compiled-to-bytecode-before-sending-over-the-network)
 
 ### Accounting
 * [Books, an immutable double-entry accounting database service](https://developer.squareup.com/blog/books-an-immutable-double-entry-accounting-database-service/)

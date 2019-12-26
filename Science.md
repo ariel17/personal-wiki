@@ -10,6 +10,7 @@
 * [GitHub Archive Program](https://archiveprogram.github.com/)
 * [Analog computer](https://www.righto.com/2019/09/reverse-engineering-precision-op-amps.html)
 * [Ultimate talk to Apollo Computer Guidance (video)](https://www.youtube.com/watch?v=xx7Lfh5SKUQ)
+* [What are the engineering principles for a train to get electricity from the railway](https://engineering.stackexchange.com/questions/32376/what-are-the-engineering-principles-for-a-train-to-get-electricity-from-the-rail)
 
 ## Medicine
 
