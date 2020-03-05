@@ -1,9 +1,11 @@
-# Coding
+# Software
 
 ## Learning
 * [Web Fundamentals](https://developers.google.com/web/fundamentals/)
 * [Every programmer should know](https://github.com/mtdvio/every-programmer-should-know)
 * [A lot about Microservices](https://kgoralski.gitbook.io/wiki/microservices)
+* [Multi-Runtime Microservices Architecture](https://www.infoq.com/articles/multi-runtime-microservice-architecture/)
+* [The Two Generals' Problem](https://www.youtube.com/watch?v=IP-rGJKSZ3s)
 
 ## Tools
 * [Version control for databases: save, restore, and archive snapshots of your database from the command line](https://github.com/infostreams/db)
