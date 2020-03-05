@@ -23,3 +23,5 @@
 * [How to conquer work paralysis like Ernest Hemingway](https://www.bbc.com/worklife/article/20191205-how-to-conquer-work-paralysis-like-ernest-hemingway)
 * [Jumping to Conclusions: When People Decide Based on Insufficient Information](https://effectiviology.com/jumping-to-conclusions/)
 * [Being average in the age of Alpha](https://www.safalniveshak.com/being-average-in-the-age-of-alpha/)
+* [Quality and Effort](https://seths.blog/2018/11/quality-and-effort/)
+* [Escaping the “when-then” trap](https://radreads.co/when-then-trap/)
