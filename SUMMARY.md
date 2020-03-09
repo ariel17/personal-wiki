@@ -8,3 +8,4 @@
 * [Music](Music.md)
 * [Games](Games.md)
 * [History](History.md)
+* [Finances](Finances.md)
