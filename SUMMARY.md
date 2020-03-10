@@ -9,3 +9,4 @@
 * [Games](Games.md)
 * [History](History.md)
 * [Finances](Finances.md)
+* [Behaviors](Behaviors.md)
