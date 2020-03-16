@@ -17,6 +17,7 @@
 * [Green Tea Consumption Is Inversely Associated with the Incidence of Influenza Infection among Schoolchildren in a Tea Plantation Area of Japan](https://academic.oup.com/jn/article/141/10/1862/4630528)
 * [La influenza más mortal: la historia completa del descubrimiento y la reconstrucción del virus de la pandemia de 1918](https://espanol.cdc.gov/enes/flu/pandemic-resources/reconstruction-1918-virus.html)
 * [Iceland knows how to stop teen substance abuse but the rest of the world isn’t listening](https://mosaicscience.com/story/iceland-prevent-teen-substance-abuse/)
+* [Why outbreaks like coronavirus spread exponentially, and how to “flatten the curve”](https://www.washingtonpost.com/graphics/2020/world/corona-simulator/?itid=hp_hp-top-table-main_virus-simulator520pm%3Ahomepage%2Fstory-ans)
 
 ## Psychology
 * [In a Split Second, Clothes Make the Man More Competent in the Eyes of Others](http://wws.princeton.edu/news-and-events/news/item/split-second-clothes-make-man-more-competent-eyes-others)
