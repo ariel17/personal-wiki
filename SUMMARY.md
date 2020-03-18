@@ -10,4 +10,4 @@
 * [History](History.md)
 * [Finances](Finances.md)
 * [Behaviors](Behaviors.md)
-* [Books](Books.md)
+* [Learning](Learning.md)
