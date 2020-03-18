@@ -11,3 +11,4 @@
 * [Finances](Finances.md)
 * [Behaviors](Behaviors.md)
 * [Learning](Learning.md)
+* [Problems / Solutions](Problems_Solutions.md)
