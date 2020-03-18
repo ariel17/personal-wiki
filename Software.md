@@ -6,6 +6,7 @@
 * [A lot about Microservices](https://kgoralski.gitbook.io/wiki/microservices)
 * [Multi-Runtime Microservices Architecture](https://www.infoq.com/articles/multi-runtime-microservice-architecture/)
 * [The Two Generals' Problem](https://www.youtube.com/watch?v=IP-rGJKSZ3s)
+* [How event-driven architecture solves modern web app problems](https://stackoverflow.blog/2020/03/16/how-event-driven-architecture-solves-modern-web-app-problems/)
 
 ## Tools
 * [Version control for databases: save, restore, and archive snapshots of your database from the command line](https://github.com/infostreams/db)
