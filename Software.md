@@ -7,11 +7,16 @@
 * [Multi-Runtime Microservices Architecture](https://www.infoq.com/articles/multi-runtime-microservice-architecture/)
 * [The Two Generals' Problem](https://www.youtube.com/watch?v=IP-rGJKSZ3s)
 * [How event-driven architecture solves modern web app problems](https://stackoverflow.blog/2020/03/16/how-event-driven-architecture-solves-modern-web-app-problems/)
+* [Webhooks: the building blocks of an event driven architecture](https://thenewstack.io/webhooks-the-building-blocks-of-an-event-driven-architecture/)
 
 ## Tools
 * [Version control for databases: save, restore, and archive snapshots of your database from the command line](https://github.com/infostreams/db)
 * [L-Systems](https://jsantell.com/l-systems)
 * [It is 2019. Update Your Footer.](http://updateyourfooter.com/)
+* [What the heck is Backstage anyway?](http://labs.spotify.com/2020/03/17/what-the-heck-is-backstage-anyway/)
+
+### Shell
+* [fzf](https://github.com/junegunn/fzf/blob/master/README.md)
 
 ### Golang
 * [How I investigated memory leaks in Go using pprof on a large codebase](https://www.freecodecamp.org/news/how-i-investigated-memory-leaks-in-go-using-pprof-on-a-large-codebase-4bec4325e192/)

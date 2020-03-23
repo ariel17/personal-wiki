@@ -7,6 +7,7 @@
 ## Books
 
 ### Free book sites
+* https://www.librarything.com/
 * http://bookzz.org/
 * https://openlibrary.org/
 * http://www.gutenberg.org/
