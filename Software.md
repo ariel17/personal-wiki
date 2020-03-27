@@ -15,6 +15,9 @@
 * [It is 2019. Update Your Footer.](http://updateyourfooter.com/)
 * [What the heck is Backstage anyway?](http://labs.spotify.com/2020/03/17/what-the-heck-is-backstage-anyway/)
 
+### Logging / Monitoring
+* [Kibana filter patterns using Grok filter plugin](https://www.elastic.co/guide/en/logstash/current/plugins-filters-grok.html)
+
 ### Shell
 * [fzf](https://github.com/junegunn/fzf/blob/master/README.md)
 
