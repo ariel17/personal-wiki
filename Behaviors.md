@@ -7,3 +7,7 @@
 
 # Behaviors
 * [The Fallacy of Move Fast and Break Things](https://launchdarkly.com/blog/the-fallacy-of-move-fast-and-break-things/)
+
+# Guidelines
+* [Human Resources: Talent Management - Chicago State University](https://www.csu.edu/humanresources/empdev/)
+* [Dealing with Ambiguity](https://www.csu.edu/humanresources/empdev/documents/DealingwithAmbiguity.pdf)
