@@ -23,6 +23,7 @@
 
 ### Golang
 * [How I investigated memory leaks in Go using pprof on a large codebase](https://www.freecodecamp.org/news/how-i-investigated-memory-leaks-in-go-using-pprof-on-a-large-codebase-4bec4325e192/)
+* [Database basics: writing a SQL database from scratch in Go](https://notes.eatonphil.com/database-basics.html)
 
 ## Javascript
 * [Why is JavaScript not compiled to bytecode before sending over the network?](https://softwareengineering.stackexchange.com/questions/402250/why-is-javascript-not-compiled-to-bytecode-before-sending-over-the-network)
