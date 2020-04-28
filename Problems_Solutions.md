@@ -6,3 +6,4 @@
 
 ## Vim
 * [Character encoding tricks for ViM](https://spin.atomicobject.com/2011/06/21/character-encoding-tricks-for-vim/)
+* [Wrap Existing Text at 80 Characters in Vim](https://thoughtbot.com/blog/wrap-existing-text-at-80-characters-in-vim)
