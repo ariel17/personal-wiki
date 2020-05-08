@@ -35,3 +35,7 @@
 > - Basicamente detecte que tengo dos modos, uno donde entro en flow y el trabajo se convierte mi prioridad numero 1 y me siento super comodo con mi productividad profesional, y otros donde por X o Y me cuesta mucho mas concentrarme y poder focalizar. Para este segundo escenario estoy probando hacer pomodoro con una extensión del browser y respetar mis tiempos.
 > 
 > Me pasaba lo mismo con el ejercicio, que muchas veces me sentia sin ganas de salir a correr, entonces me decia, salgo a caminar, y despues terminaba corriendo, lo que contraintuitivamente es malo para mi psiquis, por que mi cerebro engaño a mi cabeza para hacer algo que no queria, si yo dije de salir a caminar, tengo que salir a caminar, si no queria agarrar nada del laburo un sabado, pero yo se que tengo que ver un bug critico, no puedo hacer mas que solo ver ese bug critico, sino entro en una trampa de mi cerebro
+
+## Good practices
+
+* [Meetings Tips](https://twitter.com/TaylorPearsonMe/status/1255546794756517893)
