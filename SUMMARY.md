@@ -15,3 +15,4 @@
 * [People](People.md)
 * [Work](Work.md)
 * [Video](Video.md)
+* [Home](Home.md)
