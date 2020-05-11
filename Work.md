@@ -37,3 +37,7 @@
 
 ## Good practices
 * [Meetings Tips](https://twitter.com/TaylorPearsonMe/status/1255546794756517893)
+
+# Office in Home
+
+* [Work From Home Office Tour – Workspace + Desk Update 2020](https://www.youtube.com/watch?v=QVEp781Welg)
