@@ -14,3 +14,4 @@
 # Guidelines
 * [Human Resources: Talent Management - Chicago State University](https://www.csu.edu/humanresources/empdev/)
 * [Dealing with Ambiguity](https://www.csu.edu/humanresources/empdev/documents/DealingwithAmbiguity.pdf)
+* [Approximately correct](https://www.jjude.com/approximate)
