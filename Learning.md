@@ -20,3 +20,6 @@
 * http://manybooks.net/
 * http://collections.stanford.edu/
 * https://www.wdl.org/en/
+* [DevFreeBooks](https://devfreebooks.github.io/)
+* [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md)
+* [Planet Ebook](https://www.planetebook.com/)
