@@ -39,6 +39,9 @@
 
 ## Practical
 * [Meetings Tips](https://twitter.com/TaylorPearsonMe/status/1255546794756517893)
+* [GitLab: Communicating effectively and responsibly through text](https://about.gitlab.com/company/culture/all-remote/effective-communication/)
+* [GitLab Communication Guidelines](https://about.gitlab.com/handbook/communication/#effective--responsible-communciation-guidelines)
+* [GitLab: Documentation Style Guide](https://docs.gitlab.com/ee/development/documentation/styleguide.html#documentation-is-the-single-source-of-truth-ssot)
 
 ## Office layouts
 * [Work From Home Office Tour – Workspace + Desk Update 2020](https://www.youtube.com/watch?v=QVEp781Welg)
