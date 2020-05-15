@@ -16,6 +16,7 @@
 * [What the heck is Backstage anyway?](http://labs.spotify.com/2020/03/17/what-the-heck-is-backstage-anyway/)
 * [Free online PDF editor](https://www.pdfescape.com/)
 * [Sharing a Google Photos album to embed in a web page](https://www.publicalbum.org/blog/embedding-google-photos-albums)
+* [Docsify: Static document site generator on the fly - no build phase.](https://docsify.js.org/)
 
 ### Logging / Monitoring
 * [Kibana filter patterns using Grok filter plugin](https://www.elastic.co/guide/en/logstash/current/plugins-filters-grok.html)
