@@ -12,6 +12,7 @@
 ## Boards
 * [Games like Munchkin](https://www.reddit.com/r/boardgames/comments/5kg3ld/games_like_munchkin/)
 * [Board Game Geek](https://boardgamegeek.com/)
+* [Entanglion - Learn quantum computing on a board game](https://github.com/Entanglion/entanglion)
 
 # Others
 * [BKCore](http://hexgl.bkcore.com/)
