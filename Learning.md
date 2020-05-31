@@ -24,3 +24,7 @@
 * [DevFreeBooks](https://devfreebooks.github.io/)
 * [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md)
 * [Planet Ebook](https://www.planetebook.com/)
+
+## UX
+* [Free UX books - UXPin](https://www.uxpin.com/studio/ebooks/)
+* [Libro: Miro y Entiendo](http://www.mordecki.com/html/descargamye.php)
