@@ -10,15 +10,25 @@
   + 8: Oh boy, it is hard. Better to split it into more tasks.
 
 ## Details
-* Average completed SP: 18.5
+* Average completed SP: 18.3
+* Completed SP list: 17,20,18
+
+### Sprint #4
+* Status: WIP
+* Available SP: 18
+* Starts on: 2020-06-01
+* Ends on: 2020-06-01
+* Completed SP: 2020-06-08
+* Accuracy:
+
 
 ### Sprint #3
-* Status: WIP.
+* Status: Completed.
 * Available SP: 18
 * Starts on: 2020-05-26
 * Ends on: 2020-06-01
-* Completed SP:
-* Accuracy:
+* Completed SP: 18
+* Accuracy: 1
 
 ### Sprint #2
 * Status: Completed.
