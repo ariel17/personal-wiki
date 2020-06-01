@@ -8,6 +8,7 @@
 * [The Two Generals' Problem](https://www.youtube.com/watch?v=IP-rGJKSZ3s)
 * [How event-driven architecture solves modern web app problems](https://stackoverflow.blog/2020/03/16/how-event-driven-architecture-solves-modern-web-app-problems/)
 * [Webhooks: the building blocks of an event driven architecture](https://thenewstack.io/webhooks-the-building-blocks-of-an-event-driven-architecture/)
+* [Programming Best Practices Tidbits](https://github.com/thomasdavis/best-practices/blob/master/README.md)
 
 ## UX
 * [usability.gov](https://www.usability.gov/)
