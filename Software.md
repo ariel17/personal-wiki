@@ -47,6 +47,8 @@
 ## Teams
 * [Ask HN: How to improve code quality while maintaining decent velocity?](https://news.ycombinator.com/item?id=21730125)
 * [Modern Agile](http://modernagile.org/)
+* [The work-centric standup](https://blog.usejournal.com/the-work-centric-standup-cc20205b47ea)
+* [Learn Fast and Read Things: why (and how) we started a technical reading group](https://build.affinity.co/learn-fast-and-read-things-why-and-how-we-started-a-technical-reading-group-56a61db515bd)
 
 ## Best practices
 * [Tech Lead Expectations for Engineering Projects (Gergely Orosz @Uber)](https://docs.google.com/document/d/1kngKHUCS0DHNvZAO8PfkcsTD4Mq7b11L09RIaVpQnwI/edit?usp=sharing)
