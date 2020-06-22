@@ -10,16 +10,24 @@
   + 8: Oh boy, it is hard. Better to split it into more tasks.
 
 ## Details
-* Average completed SP: 17.2
-* Completed SP list: 17,20,18,16,15
+* Average completed SP: 16
+* Completed SP list: 17,20,18,16,15,10
 
-### Sprint #6
+### Sprint #7
 * Status: WIP
-* Forecast SP: 17
-* Starts on: 2020-06-16
-* Ends on: 2020-06-21
+* Forecast SP: 16
+* Starts on: 2020-06-22
+* Ends on: 2020-06-29
 * Completed SP:
 * Accuracy:
+
+### Sprint #6
+* Status: Completed
+* Forecast SP: 17
+* Starts on: 2020-06-16
+* Ends on: 2020-06-22
+* Completed SP: 10
+* Accuracy: 0.58
 
 ### Sprint #5
 * Status: Completed
