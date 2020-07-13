@@ -1,16 +1,14 @@
-# Work
-
-## Interesting
+# Interesting
 
 * [If You’re So Successful, Why Are You Still Working 70 Hours a Week?](https://hbr.org/2018/02/if-youre-so-successful-why-are-you-still-working-70-hours-a-week)
 * [Career advice for people with bad luck](https://chiefofstuff.substack.com/p/career-advice-for-people-with-bad)
 
-## Abstract
+# Abstract
 
-### Formal Definitions
+## Formal Definitions
 * [Work ethic - Wikipedia](https://en.wikipedia.org/wiki/Work_ethic)
 
-### Custom definitions: Sebastián Luberriaga
+## Custom definitions: Sebastián Luberriaga
 > Todo lo que no elijo es lo siguiente:
 > 
 > Comunicación:
@@ -37,11 +35,15 @@
 > 
 > Me pasaba lo mismo con el ejercicio, que muchas veces me sentia sin ganas de salir a correr, entonces me decia, salgo a caminar, y despues terminaba corriendo, lo que contraintuitivamente es malo para mi psiquis, por que mi cerebro engaño a mi cabeza para hacer algo que no queria, si yo dije de salir a caminar, tengo que salir a caminar, si no queria agarrar nada del laburo un sabado, pero yo se que tengo que ver un bug critico, no puedo hacer mas que solo ver ese bug critico, sino entro en una trampa de mi cerebro
 
-## Practical
+# Practical
 * [Meetings Tips](https://twitter.com/TaylorPearsonMe/status/1255546794756517893)
 * [GitLab: Communicating effectively and responsibly through text](https://about.gitlab.com/company/culture/all-remote/effective-communication/)
 * [GitLab Communication Guidelines](https://about.gitlab.com/handbook/communication/#effective--responsible-communciation-guidelines)
 * [GitLab: Documentation Style Guide](https://docs.gitlab.com/ee/development/documentation/styleguide.html#documentation-is-the-single-source-of-truth-ssot)
 
-## Office layouts
+# Perfomance
+* [Welcome to Your 1:1s Repo](https://github.com/sophshep/one-on-one)
+* [Cascading productivity system](https://jmulholland.com/cascading-productivity-system/)
+
+# Office layouts
 * [Work From Home Office Tour – Workspace + Desk Update 2020](https://www.youtube.com/watch?v=QVEp781Welg)
