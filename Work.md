@@ -1,8 +1,3 @@
-# Interesting
-
-* [If You’re So Successful, Why Are You Still Working 70 Hours a Week?](https://hbr.org/2018/02/if-youre-so-successful-why-are-you-still-working-70-hours-a-week)
-* [Career advice for people with bad luck](https://chiefofstuff.substack.com/p/career-advice-for-people-with-bad)
-
 # Abstract
 
 ## Formal Definitions
@@ -47,3 +42,13 @@
 
 # Office layouts
 * [Work From Home Office Tour – Workspace + Desk Update 2020](https://www.youtube.com/watch?v=QVEp781Welg)
+
+# Articles
+* [If You’re So Successful, Why Are You Still Working 70 Hours a Week?](https://hbr.org/2018/02/if-youre-so-successful-why-are-you-still-working-70-hours-a-week)
+* [Career advice for people with bad luck](https://chiefofstuff.substack.com/p/career-advice-for-people-with-bad)
+* [Ask HN: We are shutting down our startup, I get our code. What now?](https://news.ycombinator.com/item?id=21743302)
+* [Incident response and your startup](https://lethain.com/incident-response-programs-and-your-startup/)
+* [How To Find A SaaS Idea](https://elliotbonneville.com/blog/how-to-find-a-saas-idea/)
+* [Fund my project](https://github.com/sakofchit/fund-my-project)
+* [A NEW STARTUP IDEA EVERY DAY.](https://www.billiondollarstartupideas.com/)
+* [@naval: "How to Get Rich (without getting lucky)"](https://twitter.com/naval/status/1002103360646823936)
