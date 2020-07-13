@@ -1,7 +1,11 @@
 # Table of contents
 
-* [Software](Software.md)
+* [Systems](Systems.md)
 * [Science](Science.md)
+* [Astronomy](Astronomy.md)
+* [Medicine](Medicine.md)
+* [Physics](Physics.md)
+* [Hardware](Hardware.md)
 * [Startups](Startups.md)
 * [Writing](Writing.md)
 * [Interesting stuff](Stuff.md)
@@ -9,7 +13,7 @@
 * [Games](Games.md)
 * [History](History.md)
 * [Finances](Finances.md)
-* [Behaviors](Behaviors.md)
+* [Psychology](Psychology.md)
 * [Learning](Learning.md)
 * [Problems / Solutions](Problems_Solutions.md)
 * [People](People.md)
