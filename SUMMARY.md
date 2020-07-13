@@ -14,7 +14,6 @@
 * [Physics](Physics.md)
 * [Problems / Solutions](Problems_Solutions.md)
 * [Psychology](Psychology.md)
-* [Science](Science.md)
 * [Startups](Startups.md)
 * [Systems](Systems.md)
 * [Tools](Tools.md)
