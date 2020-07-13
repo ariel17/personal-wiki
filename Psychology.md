@@ -19,3 +19,4 @@
 * [In a Split Second, Clothes Make the Man More Competent in the Eyes of Others](http://wws.princeton.edu/news-and-events/news/item/split-second-clothes-make-man-more-competent-eyes-others)
 * [Jumping to Conclusions: When People Decide Based on Insufficient Information](https://effectiviology.com/jumping-to-conclusions/)
 * [The Pandemic Is Showing Us How to Live with Uncertainty](http://nautil.us/issue/83/intelligence/the-pandemic-is-showing-us-how-to-live-with-uncertainty)
+* [Stanford marshmallow experiment (delayed gratification)](https://en.wikipedia.org/wiki/Stanford_marshmallow_experiment)
