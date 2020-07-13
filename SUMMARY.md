@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Astronomy](Astronomy.md)
+* [Books](Books.md)
 * [Finances](Finances.md)
 * [Games](Games.md)
 * [Hardware](Hardware.md)
@@ -16,4 +17,3 @@
 * [Tools](Tools.md)
 * [Work](Work.md)
 * [Writing](Writing.md)
-* [eBooks](eBooks.md)
