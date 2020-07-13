@@ -5,7 +5,6 @@
 * [Games](Games.md)
 * [Hardware](Hardware.md)
 * [History](History.md)
-* [Home](Home.md)
 * [Interesting stuff](Stuff.md)
 * [Learning](Learning.md)
 * [Medicine](Medicine.md)
