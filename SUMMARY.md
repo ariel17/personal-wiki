@@ -6,7 +6,6 @@
 * [Hardware](Hardware.md)
 * [History](History.md)
 * [Interesting stuff](Stuff.md)
-* [Learning](Learning.md)
 * [Medicine](Medicine.md)
 * [Music](Music.md)
 * [People](People.md)
@@ -17,3 +16,4 @@
 * [Tools](Tools.md)
 * [Work](Work.md)
 * [Writing](Writing.md)
+* [eBooks](eBooks.md)
