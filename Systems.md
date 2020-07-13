@@ -12,22 +12,23 @@
 * [Software folklore](http://beza1e1.tuxen.de/lore/index.html)
 * [CAP theorem](https://en.wikipedia.org/wiki/CAP_theorem)
 * [What is the CAP theorem](https://www.educative.io/edpresso/what-is-the-cap-theorem)
+* [L-Systems](https://jsantell.com/l-systems)
+
+# Resilience
+* [Findings from the field - DevOps Enterprise London 2020](https://speakerdeck.com/jallspaw/findings-from-the-field-devops-enterprise-london-2020)
 
 # UX
 * [usability.gov](https://www.usability.gov/)
 * [Ultimate Start guide for beginner UX/UI designers in 2019](http://zdrabranding.com/en/ultimate-start-guide-for-beginner-ux-ui-designers-in-2019/)
 
-# Tools
-* [Version control for databases: save, restore, and archive snapshots of your database from the command line](https://github.com/infostreams/db)
-* [L-Systems](https://jsantell.com/l-systems)
-* [It is 2019. Update Your Footer.](http://updateyourfooter.com/)
-* [What the heck is Backstage anyway?](http://labs.spotify.com/2020/03/17/what-the-heck-is-backstage-anyway/)
-* [Free online PDF editor](https://www.pdfescape.com/)
-* [Sharing a Google Photos album to embed in a web page](https://www.publicalbum.org/blog/embedding-google-photos-albums)
-* [Docsify: Static document site generator on the fly - no build phase.](https://docsify.js.org/)
-
 # Logging / Monitoring
 * [Kibana filter patterns using Grok filter plugin](https://www.elastic.co/guide/en/logstash/current/plugins-filters-grok.html)
+
+# Orchestation
+* [What the heck is Backstage anyway?](http://labs.spotify.com/2020/03/17/what-the-heck-is-backstage-anyway/)
+
+# Databases
+* [Version control for databases: save, restore, and archive snapshots of your database from the command line](https://github.com/infostreams/db)
 
 # Shell
 * [fzf](https://github.com/junegunn/fzf/blob/master/README.md)

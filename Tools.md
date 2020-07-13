@@ -1,10 +1,9 @@
-# Video
 * [The 3 best open source video editors](https://helpdeskgeek.com/free-tools-review/the-3-best-open-source-video-editors/)
 * [Lightworks](https://www.lwks.com/)
 * [OpenShot](https://www.openshot.org/)
-
-# Text to speech
 * [Text to speach robot](http://texttospeechrobot.com/texttospeechdownloadmp3.html)
-
-# Audio
 * [YouTube to MP3](https://mp3-youtube.download/es/better-convert)
+* [Free online PDF editor](https://www.pdfescape.com/)
+* [It is 2019. Update Your Footer.](http://updateyourfooter.com/)
+* [Sharing a Google Photos album to embed in a web page](https://www.publicalbum.org/blog/embedding-google-photos-albums)
+* [Docsify: Static document site generator on the fly - no build phase.](https://docsify.js.org/)
