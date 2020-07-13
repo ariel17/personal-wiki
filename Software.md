@@ -11,6 +11,7 @@
 * [Programming Best Practices Tidbits](https://github.com/thomasdavis/best-practices/blob/master/README.md)
 * [Microservices & Conway's Law](https://twitter.com/allenholub/status/1279472949976797187)
 * [Conway's Law](https://www.melconway.com/Home/Committees_Paper.html)
+* [Software folklore](http://beza1e1.tuxen.de/lore/index.html)
 
 ## UX
 * [usability.gov](https://www.usability.gov/)

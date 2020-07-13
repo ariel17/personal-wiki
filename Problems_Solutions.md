@@ -10,3 +10,6 @@
 
 ## Linux, Ubuntu, HP and AMP ATI
 * [Enable Hybrid Switchable Graphics on Linux](https://www.youtube.com/watch?v=7-ckiKQotNw)
+
+## Scripts
+* [Unfollow all on Twitter script](https://gist.github.com/JamieMason/7580315)

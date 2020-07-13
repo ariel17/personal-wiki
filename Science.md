@@ -29,11 +29,14 @@
 * [Quality and Effort](https://seths.blog/2018/11/quality-and-effort/)
 * [Escaping the “when-then” trap](https://radreads.co/when-then-trap/)
 * [The Pandemic Is Showing Us How to Live with Uncertainty](http://nautil.us/issue/83/intelligence/the-pandemic-is-showing-us-how-to-live-with-uncertainty)
+* [Feedback loops](https://dcgross.com/feedback-loops/)
 
 ## Astronomy
 * [Viaje al centro de un agujero negro](https://www.youtube.com/watch?v=3pAnRKD4raY&feature=youtu.be)
 * [Orden cronológico del futuro: Un Viaje Hacia El Fin de los Tiempos (En 4K)](https://www.youtube.com/watch?v=uD4izuDMUQA)
 * [NASA - Apollo In Real Time](https://apolloinrealtime.org/)
+* [ISS - Google Maps](http://goo.gle/space-station)
+* [Stars in space - NASA](https://www.flickr.com/photos/nasa2explore/48182183752/in/album-72157680091012838/)
 
 ## Physics
 * [Why does ice make such peculiar sounds? [duplicate]](https://physics.stackexchange.com/questions/534847/why-does-ice-make-such-peculiar-sounds)
