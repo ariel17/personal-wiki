@@ -1,0 +1,7 @@
+* [When a DNA Test Says You’re a Younger Man, Who Lives 5,000 Miles Away](https://www.nytimes.com/2019/12/07/us/dna-bone-marrow-transplant-crime-lab.html)
+* [Exclusive: Humans placed in suspended animation for the first time](https://www.newscientist.com/article/2224004-exclusive-humans-placed-in-suspended-animation-for-the-first-time/)
+* [Green Tea Consumption Is Inversely Associated with the Incidence of Influenza Infection among Schoolchildren in a Tea Plantation Area of Japan](https://academic.oup.com/jn/article/141/10/1862/4630528)
+* [La influenza más mortal: la historia completa del descubrimiento y la reconstrucción del virus de la pandemia de 1918](https://espanol.cdc.gov/enes/flu/pandemic-resources/reconstruction-1918-virus.html)
+* [Iceland knows how to stop teen substance abuse but the rest of the world isn’t listening](https://mosaicscience.com/story/iceland-prevent-teen-substance-abuse/)
+* [Why outbreaks like coronavirus spread exponentially, and how to “flatten the curve”](https://www.washingtonpost.com/graphics/2020/world/corona-simulator/?itid=hp_hp-top-table-main_virus-simulator520pm%3Ahomepage%2Fstory-ans)
+* [If a heart is a muscle, why doesn’t it ever get tired of beating but things like my arms and legs do?](https://www.reddit.com/r/askscience/comments/fm2z8x/if_a_heart_is_a_muscle_why_doesnt_it_ever_get/)
