@@ -5,3 +5,4 @@
 * [Iceland knows how to stop teen substance abuse but the rest of the world isn’t listening](https://mosaicscience.com/story/iceland-prevent-teen-substance-abuse/)
 * [Why outbreaks like coronavirus spread exponentially, and how to “flatten the curve”](https://www.washingtonpost.com/graphics/2020/world/corona-simulator/?itid=hp_hp-top-table-main_virus-simulator520pm%3Ahomepage%2Fstory-ans)
 * [If a heart is a muscle, why doesn’t it ever get tired of beating but things like my arms and legs do?](https://www.reddit.com/r/askscience/comments/fm2z8x/if_a_heart_is_a_muscle_why_doesnt_it_ever_get/)
+* [ELI5: What are the biological mechanisms that causes an introvert to be physically and emotionally drained from extended social interactions? I literally just ended a long telephone conversation and I'm exhausted. Why is that?](https://www.reddit.com/r/explainlikeimfive/comments/hqrzgx/eli5_what_are_the_biological_mechanisms_that/)
