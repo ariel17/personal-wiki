@@ -2,6 +2,7 @@
 
 * [Astronomy](Astronomy.md)
 * [Books](Books.md)
+* [Electronic](Electronic.md)
 * [Finances](Finances.md)
 * [Games](Games.md)
 * [Hardware](Hardware.md)
