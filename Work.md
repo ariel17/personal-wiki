@@ -53,6 +53,9 @@
 * [A NEW STARTUP IDEA EVERY DAY.](https://www.billiondollarstartupideas.com/)
 * [@naval: "How to Get Rich (without getting lucky)"](https://twitter.com/naval/status/1002103360646823936)
 
+# Health
+* [Burnout in Software Development Demystified](https://thevaluable.dev/burnout-software-developer/)
+
 # Remote work
 
 ## Sobre la comunicación y la cultura
@@ -78,6 +81,3 @@ Soledad y aislamiento: Es uno de los males más comunes para los trabajadores 10
 
 ## Sobre las herramientas
 Herramientas sobran, y es un error creer que trabajar remoto efectivamente es solo cuestión de encontrar las herramientas correctas. Ser efectivo y saludable trabajando remoto es 75% un tema de cultura. Dicho eso, hoy en día hay muchas herramientas que hacen que el otro 25% sea más fácil de resolver. Aprovechemos lo más que podamos Slack, Workplace y las herramientas de Google. Veamos cómo usar mejor Jira y Github. Y hay otras herramientas para reemplazar los pizarrones de las salas como https://mural.co/ o https://www.parabol.co/
-
-UPDATE:
-Si bien el punto de siempre usar video es importante, por favor sigamos las recomendaciones de Internal Systems primero porque si matamos la VPN nadie va a poder trabajar. Usemos la VPN solo si la necesitamos, y cuidemos ese ancho de banda lo mas posible.
