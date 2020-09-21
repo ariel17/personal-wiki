@@ -52,6 +52,7 @@
 * [Fund my project](https://github.com/sakofchit/fund-my-project)
 * [A NEW STARTUP IDEA EVERY DAY.](https://www.billiondollarstartupideas.com/)
 * [@naval: "How to Get Rich (without getting lucky)"](https://twitter.com/naval/status/1002103360646823936)
+* [Things to know about engineering levels](https://charity.wtf/2020/09/14/useful-things-to-know-about-engineering-levels/)
 
 # Health
 * [Burnout in Software Development Demystified](https://thevaluable.dev/burnout-software-developer/)
