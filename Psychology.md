@@ -14,6 +14,7 @@
 * [Hello World: Curing impostor syndrome by embracing the suck](https://stackoverflow.blog/2020/02/10/hello-world-curing-imposter-syndrome-by-embracing-the-suck/)
 * [12 Reasons to Embrace the Chaos and Move Forward in Life](https://gratefulness.org/blog/12-reasons-embrace-chaos-move-forward-life/)
 * [Living With Chaos](https://zenhabits.net/chaos/)
+* [A few rules](https://www.collaborativefund.com/blog/a-few-rules/)
 
 # Studies
 * [In a Split Second, Clothes Make the Man More Competent in the Eyes of Others](http://wws.princeton.edu/news-and-events/news/item/split-second-clothes-make-man-more-competent-eyes-others)

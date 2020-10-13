@@ -61,6 +61,7 @@
 * [Production oriented development](https://paulosman.me/2019/12/30/production-oriented-development.html)
 * [Manager's Playbook](https://github.com/ksindi/managers-playbook)
 * [The documentation system](https://documentation.divio.com/)
+* [Pull request size](https://smallbusinessprogramming.com/optimal-pull-request-size/)
 
 # AI
 * [Deep Learning Algorithms : The Complete Guide](https://theaisummer.com/Deep-Learning-Algorithms/)

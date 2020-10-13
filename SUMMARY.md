@@ -15,6 +15,7 @@
 * [Physics](Physics.md)
 * [Problems / Solutions](Problems_Solutions.md)
 * [Psychology](Psychology.md)
+* [Self care](Self_Care.md)
 * [Systems](Systems.md)
 * [Tools](Tools.md)
 * [Work](Work.md)
