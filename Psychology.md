@@ -21,3 +21,4 @@
 * [Jumping to Conclusions: When People Decide Based on Insufficient Information](https://effectiviology.com/jumping-to-conclusions/)
 * [The Pandemic Is Showing Us How to Live with Uncertainty](http://nautil.us/issue/83/intelligence/the-pandemic-is-showing-us-how-to-live-with-uncertainty)
 * [Stanford marshmallow experiment (delayed gratification)](https://en.wikipedia.org/wiki/Stanford_marshmallow_experiment)
+* [Psychology in design: the Zeigarnik effect](https://uxdesign.cc/psychology-in-design-the-zeigarnik-effect-a59317503f8f)
