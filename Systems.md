@@ -45,10 +45,11 @@
 * [Books, an immutable double-entry accounting database service](https://developer.squareup.com/blog/books-an-immutable-double-entry-accounting-database-service/)
 * [plain text accounting](https://plaintextaccounting.org/)
 
-# Kubernetes
+# Virtualization
 * [Flagger: Progressive delivery Kubernetes operator (Canary, A/B Testing and Blue/Green deployments)](https://github.com/weaveworks/flagger)
 * [Production grade Kubernetes Monitoring using Prometheus](https://medium.com/faun/production-grade-kubernetes-monitoring-using-prometheus-78144b835b60)
 * [Local SonarQube CE on Kubernetes](https://dev.to/letsmeetphil/local-sonarqube-7-9-1-community-lts-on-kubernetes-38d9)
+* [Cloud Native Computing Foundation](https://www.cncf.io/)
 
 # Teams
 * [Ask HN: How to improve code quality while maintaining decent velocity?](https://news.ycombinator.com/item?id=21730125)
