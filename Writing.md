@@ -7,3 +7,4 @@
 # Publishing
 
 * [¿Qué es y qué debe contener la página de créditos de un libro?](https://www.bubok.com.ar/blog/que-es-y-que-debe-contener-la-pagina-de-creditos-de-un-libro/)
+* [How to Sell Short Stories for Money and Have More Fun Doing It](http://feedproxy.google.com/~r/TheWritePractice/~3/xoeQyaK9aVM/)

@@ -54,6 +54,7 @@
 * [@naval: "How to Get Rich (without getting lucky)"](https://twitter.com/naval/status/1002103360646823936)
 * [Things to know about engineering levels](https://charity.wtf/2020/09/14/useful-things-to-know-about-engineering-levels/)
 * [How to Have Hyper-Efficient Communication Within Remote Teams](https://medium.com/swlh/how-to-have-hyper-efficient-communication-within-remote-teams-3e74e87eb762)
+* [What does it mean to manage up?](https://www.tinypulse.com/blog/what-does-it-mean-to-manage-up)
 
 # Health
 * [Burnout in Software Development Demystified](https://thevaluable.dev/burnout-software-developer/)
