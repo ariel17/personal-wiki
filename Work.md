@@ -36,6 +36,7 @@
 * [GitLab Communication Guidelines](https://about.gitlab.com/handbook/communication/#effective--responsible-communciation-guidelines)
 * [GitLab: Documentation Style Guide](https://docs.gitlab.com/ee/development/documentation/styleguide.html#documentation-is-the-single-source-of-truth-ssot)
 * [Owning your onboarding (specially in remote work)](https://dmellonielet.com/2020/11/30/software-engineers-guide-to-owning-the-onboarding.html)
+* [I keep (re)learning this](https://twitter.com/tottinge/status/1329066180733251585)
 
 # Perfomance
 * [Welcome to Your 1:1s Repo](https://github.com/sophshep/one-on-one)
@@ -56,6 +57,12 @@
 * [Things to know about engineering levels](https://charity.wtf/2020/09/14/useful-things-to-know-about-engineering-levels/)
 * [How to Have Hyper-Efficient Communication Within Remote Teams](https://medium.com/swlh/how-to-have-hyper-efficient-communication-within-remote-teams-3e74e87eb762)
 * [What does it mean to manage up?](https://www.tinypulse.com/blog/what-does-it-mean-to-manage-up)
+* [Your first day as a new engineering manager](https://pragmaticlead.com/posts/your-first-day-as-new-software-engineering-manager)
+* [Being visible](https://lethain.com/being-visible/)
+* [Assign problems (not work) to your teams to build extraordinary products](https://leaddev.com/agile-other-ways-working/assign-problems-not-work-your-teams-build-extraordinary-products)
+* [Frameworks](https://sarahtavel.medium.com/frameworks-12c220e775eb)
+* [Product Thinking vs. Project Thinking](https://productcoalition.com/product-thinking-vs-project-thinking-380692a2d4e)
+* [Choosing the management track](https://blog.danielna.com/choosing-the-management-track/)
 
 # Health
 * [Burnout in Software Development Demystified](https://thevaluable.dev/burnout-software-developer/)

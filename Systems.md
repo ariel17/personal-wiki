@@ -13,6 +13,7 @@
 * [CAP theorem](https://en.wikipedia.org/wiki/CAP_theorem)
 * [What is the CAP theorem](https://www.educative.io/edpresso/what-is-the-cap-theorem)
 * [L-Systems](https://jsantell.com/l-systems)
+* [Tools of a system thinker](https://medium.com/disruptive-design/tools-for-systems-thinkers-the-6-fundamental-concepts-of-systems-thinking-379cdac3dc6a)
 
 # Resilience
 * [Findings from the field - DevOps Enterprise London 2020](https://speakerdeck.com/jallspaw/findings-from-the-field-devops-enterprise-london-2020)

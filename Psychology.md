@@ -15,6 +15,8 @@
 * [12 Reasons to Embrace the Chaos and Move Forward in Life](https://gratefulness.org/blog/12-reasons-embrace-chaos-move-forward-life/)
 * [Living With Chaos](https://zenhabits.net/chaos/)
 * [A few rules](https://www.collaborativefund.com/blog/a-few-rules/)
+* [Blinded by how](https://blog.andymatuschak.org/post/69049177559/blinded-by-how)
+* [Good Decision-Making Depends on an ‘Archer’s Mindset’](https://forge.medium.com/good-decision-making-depends-on-an-archers-mindset-bee8433223ba)
 
 # Studies
 * [In a Split Second, Clothes Make the Man More Competent in the Eyes of Others](http://wws.princeton.edu/news-and-events/news/item/split-second-clothes-make-man-more-competent-eyes-others)
@@ -22,3 +24,4 @@
 * [The Pandemic Is Showing Us How to Live with Uncertainty](http://nautil.us/issue/83/intelligence/the-pandemic-is-showing-us-how-to-live-with-uncertainty)
 * [Stanford marshmallow experiment (delayed gratification)](https://en.wikipedia.org/wiki/Stanford_marshmallow_experiment)
 * [Psychology in design: the Zeigarnik effect](https://uxdesign.cc/psychology-in-design-the-zeigarnik-effect-a59317503f8f)
+* [The Occupational Depression Inventory: A new tool for clinicians and epidemiologists](https://www.sciencedirect.com/science/article/pii/S0022399920308114?via%3Dihub)
