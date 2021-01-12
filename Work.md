@@ -63,6 +63,7 @@
 * [Frameworks](https://sarahtavel.medium.com/frameworks-12c220e775eb)
 * [Product Thinking vs. Project Thinking](https://productcoalition.com/product-thinking-vs-project-thinking-380692a2d4e)
 * [Choosing the management track](https://blog.danielna.com/choosing-the-management-track/)
+* [Maximixing developer effectiveness](https://martinfowler.com/articles/developer-effectiveness.html)
 
 # Health
 * [Burnout in Software Development Demystified](https://thevaluable.dev/burnout-software-developer/)
