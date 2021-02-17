@@ -37,6 +37,7 @@
 * [GitLab: Documentation Style Guide](https://docs.gitlab.com/ee/development/documentation/styleguide.html#documentation-is-the-single-source-of-truth-ssot)
 * [Owning your onboarding (specially in remote work)](https://dmellonielet.com/2020/11/30/software-engineers-guide-to-owning-the-onboarding.html)
 * [I keep (re)learning this](https://twitter.com/tottinge/status/1329066180733251585)
+* [Reflections After 15 Years of Working as a Software Developer](https://medium.com/better-programming/reflections-after-15-years-working-as-a-software-developer-cabf610f51a0)
 
 # Perfomance
 * [Welcome to Your 1:1s Repo](https://github.com/sophshep/one-on-one)
