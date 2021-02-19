@@ -42,6 +42,7 @@
 # Perfomance
 * [Welcome to Your 1:1s Repo](https://github.com/sophshep/one-on-one)
 * [Cascading productivity system](https://jmulholland.com/cascading-productivity-system/)
+* [Engineering Productivity Can Be Measured - Just Not How You'd Expect](https://www.okayhq.com/blog/engineering-productivity-can-be-measured)
 
 # Office layouts
 * [Work From Home Office Tour – Workspace + Desk Update 2020](https://www.youtube.com/watch?v=QVEp781Welg)
