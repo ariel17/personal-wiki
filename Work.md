@@ -66,6 +66,7 @@
 * [Product Thinking vs. Project Thinking](https://productcoalition.com/product-thinking-vs-project-thinking-380692a2d4e)
 * [Choosing the management track](https://blog.danielna.com/choosing-the-management-track/)
 * [Maximixing developer effectiveness](https://martinfowler.com/articles/developer-effectiveness.html)
+* [Short Fat Engineers Are Undervalued](https://nested.substack.com/p/short-fat-engineers-are-undervalued)
 
 # Health
 * [Burnout in Software Development Demystified](https://thevaluable.dev/burnout-software-developer/)
