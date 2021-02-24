@@ -14,3 +14,4 @@
 * [Analog computer](https://www.righto.com/2019/09/reverse-engineering-precision-op-amps.html)
 * [Ultimate talk to Apollo Computer Guidance (video)](https://www.youtube.com/watch?v=xx7Lfh5SKUQ)
 * [Pájaro carpintero ruso](https://es.wikipedia.org/wiki/P%C3%A1jaro_Carpintero_Ruso)
+* [Six Decades of Software Engineering](https://www.infoq.com/presentations/six-decades-software-engineering/)
