@@ -15,6 +15,9 @@
 * [L-Systems](https://jsantell.com/l-systems)
 * [Tools of a system thinker](https://medium.com/disruptive-design/tools-for-systems-thinkers-the-6-fundamental-concepts-of-systems-thinking-379cdac3dc6a)
 
+## Algorithms
+* [Go Data Structures: Binary Search Tree](https://flaviocopes.com/golang-data-structure-binary-search-tree/)
+
 # Resilience
 * [Findings from the field - DevOps Enterprise London 2020](https://speakerdeck.com/jallspaw/findings-from-the-field-devops-enterprise-london-2020)
 * [Postmortem templates](https://github.com/dastergon/postmortem-templates)
