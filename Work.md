@@ -43,6 +43,7 @@
 * [Welcome to Your 1:1s Repo](https://github.com/sophshep/one-on-one)
 * [Cascading productivity system](https://jmulholland.com/cascading-productivity-system/)
 * [Engineering Productivity Can Be Measured - Just Not How You'd Expect](https://www.okayhq.com/blog/engineering-productivity-can-be-measured)
+* [Becoming a High-Performance Software Engineer](https://medium.com/riskified-technology/becoming-a-high-performance-software-engineer-895ec6949782)
 
 # Office layouts
 * [Work From Home Office Tour – Workspace + Desk Update 2020](https://www.youtube.com/watch?v=QVEp781Welg)
@@ -67,6 +68,7 @@
 * [Choosing the management track](https://blog.danielna.com/choosing-the-management-track/)
 * [Maximixing developer effectiveness](https://martinfowler.com/articles/developer-effectiveness.html)
 * [Short Fat Engineers Are Undervalued](https://nested.substack.com/p/short-fat-engineers-are-undervalued)
+* [68 Percent of Employees Are Disengaged, But There Is a Scientifically Proven Way to Boost Engagement](https://www.inc.com/sonia-thompson/68-percent-of-employees-are-disengaged-but-there-i.html)
 
 # Health
 * [Burnout in Software Development Demystified](https://thevaluable.dev/burnout-software-developer/)
