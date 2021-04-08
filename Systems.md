@@ -67,6 +67,7 @@
 * [Manager's Playbook](https://github.com/ksindi/managers-playbook)
 * [The documentation system](https://documentation.divio.com/)
 * [Pull request size](https://smallbusinessprogramming.com/optimal-pull-request-size/)
+* [Maslow's pyramid of code review](http://www.dein.fr/2015-02-18-maslows-pyramid-of-code-review.html)
 
 # AI
 * [Deep Learning Algorithms : The Complete Guide](https://theaisummer.com/Deep-Learning-Algorithms/)
