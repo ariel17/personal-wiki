@@ -7,3 +7,4 @@
 * [It is 2019. Update Your Footer.](http://updateyourfooter.com/)
 * [Sharing a Google Photos album to embed in a web page](https://www.publicalbum.org/blog/embedding-google-photos-albums)
 * [Docsify: Static document site generator on the fly - no build phase.](https://docsify.js.org/)
+* [Shortcut foo](https://www.shortcutfoo.com/)
