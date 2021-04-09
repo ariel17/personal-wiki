@@ -69,6 +69,7 @@
 * [Maximixing developer effectiveness](https://martinfowler.com/articles/developer-effectiveness.html)
 * [Short Fat Engineers Are Undervalued](https://nested.substack.com/p/short-fat-engineers-are-undervalued)
 * [68 Percent of Employees Are Disengaged, But There Is a Scientifically Proven Way to Boost Engagement](https://www.inc.com/sonia-thompson/68-percent-of-employees-are-disengaged-but-there-i.html)
+* [A word on ridiculous workloads and deadlines.](https://givegoodux.com/a-word-on-ridiculous-workloads-and-deadlines/)
 
 # Health
 * [Burnout in Software Development Demystified](https://thevaluable.dev/burnout-software-developer/)
