@@ -38,6 +38,10 @@
 * [Owning your onboarding (specially in remote work)](https://dmellonielet.com/2020/11/30/software-engineers-guide-to-owning-the-onboarding.html)
 * [I keep (re)learning this](https://twitter.com/tottinge/status/1329066180733251585)
 * [Reflections After 15 Years of Working as a Software Developer](https://medium.com/better-programming/reflections-after-15-years-working-as-a-software-developer-cabf610f51a0)
+* [Scaling Yourself • Scott Hanselman • GOTO 2012 (YouTube)](https://www.youtube.com/watch?v=FS1mnISoG7U&ab_channel=GOTOConferences)
+* [Early work - Paul Gaham](http://paulgraham.com/early.html)
+* [How to achieve career growth: opportunities, skills & sponsors](https://yenkel.dev/posts/how-to-achieve-career-growth-opportunities-skills-sponsors)
+* [A few rules](https://www.collaborativefund.com/blog/a-few-rules/)
 
 # Perfomance
 * [Welcome to Your 1:1s Repo](https://github.com/sophshep/one-on-one)
@@ -70,6 +74,7 @@
 * [Short Fat Engineers Are Undervalued](https://nested.substack.com/p/short-fat-engineers-are-undervalued)
 * [68 Percent of Employees Are Disengaged, But There Is a Scientifically Proven Way to Boost Engagement](https://www.inc.com/sonia-thompson/68-percent-of-employees-are-disengaged-but-there-i.html)
 * [A word on ridiculous workloads and deadlines.](https://givegoodux.com/a-word-on-ridiculous-workloads-and-deadlines/)
+* [Developer progression as a function](https://www.siddharthsarda.com/p/developer-progression-as-a-function)
 
 # Health
 * [Burnout in Software Development Demystified](https://thevaluable.dev/burnout-software-developer/)

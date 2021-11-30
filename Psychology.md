@@ -17,6 +17,7 @@
 * [A few rules](https://www.collaborativefund.com/blog/a-few-rules/)
 * [Blinded by how](https://blog.andymatuschak.org/post/69049177559/blinded-by-how)
 * [Good Decision-Making Depends on an ‘Archer’s Mindset’](https://forge.medium.com/good-decision-making-depends-on-an-archers-mindset-bee8433223ba)
+* [How to stop endless discussions](https://candost.blog/how-to-stop-endless-discussions/)
 
 # Studies
 * [In a Split Second, Clothes Make the Man More Competent in the Eyes of Others](http://wws.princeton.edu/news-and-events/news/item/split-second-clothes-make-man-more-competent-eyes-others)

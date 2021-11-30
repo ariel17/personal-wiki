@@ -14,6 +14,7 @@
 * [What is the CAP theorem](https://www.educative.io/edpresso/what-is-the-cap-theorem)
 * [L-Systems](https://jsantell.com/l-systems)
 * [Tools of a system thinker](https://medium.com/disruptive-design/tools-for-systems-thinkers-the-6-fundamental-concepts-of-systems-thinking-379cdac3dc6a)
+* [10 design patterns every software architect must know](https://ravindraelicherla.medium.com/10-design-patterns-every-software-architect-must-know-b33237bc01c2)
 
 ## Algorithms
 * [Go Data Structures: Binary Search Tree](https://flaviocopes.com/golang-data-structure-binary-search-tree/)
@@ -34,6 +35,7 @@
 
 # Databases
 * [Version control for databases: save, restore, and archive snapshots of your database from the command line](https://github.com/infostreams/db)
+* [Understanding database scalling patterns](https://kousiknath.medium.com/understanding-database-scaling-patterns-ac24e5223522)
 
 # Shell
 * [fzf](https://github.com/junegunn/fzf/blob/master/README.md)
@@ -41,6 +43,7 @@
 # Golang
 * [How I investigated memory leaks in Go using pprof on a large codebase](https://www.freecodecamp.org/news/how-i-investigated-memory-leaks-in-go-using-pprof-on-a-large-codebase-4bec4325e192/)
 * [Database basics: writing a SQL database from scratch in Go](https://notes.eatonphil.com/database-basics.html)
+* [Applying the Clean Architecture to Go applications](https://manuel.kiessling.net/2012/09/28/applying-the-clean-architecture-to-go-applications/)
 
 # Javascript
 * [Why is JavaScript not compiled to bytecode before sending over the network?](https://softwareengineering.stackexchange.com/questions/402250/why-is-javascript-not-compiled-to-bytecode-before-sending-over-the-network)
@@ -60,6 +63,8 @@
 * [Modern Agile](http://modernagile.org/)
 * [The work-centric standup](https://blog.usejournal.com/the-work-centric-standup-cc20205b47ea)
 * [Learn Fast and Read Things: why (and how) we started a technical reading group](https://build.affinity.co/learn-fast-and-read-things-why-and-how-we-started-a-technical-reading-group-56a61db515bd)
+* [Lead Time](https://community.atlassian.com/t5/Jira-questions/Lead-Time/qaq-p/754325)
+* [Common leadership and management mistakes](https://fellow.app/blog/2020/common-leadership-and-management-mistakes/)
 
 # Best practices
 * [Tech Lead Expectations for Engineering Projects (Gergely Orosz @Uber)](https://docs.google.com/document/d/1kngKHUCS0DHNvZAO8PfkcsTD4Mq7b11L09RIaVpQnwI/edit?usp=sharing)
@@ -68,6 +73,7 @@
 * [The documentation system](https://documentation.divio.com/)
 * [Pull request size](https://smallbusinessprogramming.com/optimal-pull-request-size/)
 * [Maslow's pyramid of code review](http://www.dein.fr/2015-02-18-maslows-pyramid-of-code-review.html)
+* [5 ways to succeed with an API gateway](https://thenewstack.io/5-ways-to-succeed-with-an-api-gateway/)
 
 # AI
 * [Deep Learning Algorithms : The Complete Guide](https://theaisummer.com/Deep-Learning-Algorithms/)
@@ -75,3 +81,6 @@
 
 # Linux
 * [Linux Foundation](https://www.linuxfoundation.org/)
+
+# Events
+* [ABSTRACTIONS: A Cross-Discipline Software Conference for Everyone](https://abstractions.io/)
