@@ -8,3 +8,4 @@
 * [Sharing a Google Photos album to embed in a web page](https://www.publicalbum.org/blog/embedding-google-photos-albums)
 * [Docsify: Static document site generator on the fly - no build phase.](https://docsify.js.org/)
 * [Shortcut foo](https://www.shortcutfoo.com/)
+* [Lightweight Charts](https://www.tradingview.com/lightweight-charts/)
