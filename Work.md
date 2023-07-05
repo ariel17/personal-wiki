@@ -2,6 +2,7 @@
 
 ## Formal Definitions
 * [Work ethic - Wikipedia](https://en.wikipedia.org/wiki/Work_ethic)
+* [Deontología para un Ingeniero en Sistemas](https://www.researchgate.net/publication/236213665_Deontologia_del_Ingeniero_de_Sistemas_Un_Enfoque_Sistemico_Spanish_Edition_Paperback)
 
 ## Custom definitions: Sebastián Luberriaga
 > Todo lo que no elijo es lo siguiente:
@@ -42,6 +43,7 @@
 * [Early work - Paul Gaham](http://paulgraham.com/early.html)
 * [How to achieve career growth: opportunities, skills & sponsors](https://yenkel.dev/posts/how-to-achieve-career-growth-opportunities-skills-sponsors)
 * [A few rules](https://www.collaborativefund.com/blog/a-few-rules/)
+* [Treat Your Onboarding Process Like Your Build System](https://blog.vpecoach.com/treat-your-onboarding-process-like-your-build-system-381474aff0f1?gi=83ba117ceeab)
 
 # Perfomance
 * [Welcome to Your 1:1s Repo](https://github.com/sophshep/one-on-one)
@@ -75,6 +77,7 @@
 * [68 Percent of Employees Are Disengaged, But There Is a Scientifically Proven Way to Boost Engagement](https://www.inc.com/sonia-thompson/68-percent-of-employees-are-disengaged-but-there-i.html)
 * [A word on ridiculous workloads and deadlines.](https://givegoodux.com/a-word-on-ridiculous-workloads-and-deadlines/)
 * [Developer progression as a function](https://www.siddharthsarda.com/p/developer-progression-as-a-function)
+* [Software Engineering Leadership is not (Only) About Coding Well](https://gadon.medium.com/software-engineering-leadership-is-not-only-about-coding-well-1d5d1e43029)
 
 # Health
 * [Burnout in Software Development Demystified](https://thevaluable.dev/burnout-software-developer/)

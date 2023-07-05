@@ -16,6 +16,7 @@
 * [Tools of a system thinker](https://medium.com/disruptive-design/tools-for-systems-thinkers-the-6-fundamental-concepts-of-systems-thinking-379cdac3dc6a)
 * [10 design patterns every software architect must know](https://ravindraelicherla.medium.com/10-design-patterns-every-software-architect-must-know-b33237bc01c2)
 * [Essential Math for Data Science: Information Theory](https://www.kdnuggets.com/2021/01/essential-math-data-science-information-theory.html)
+* [Career Ladders](https://career-ladders.dev/engineering/)
 
 ## Algorithms
 * [Go Data Structures: Binary Search Tree](https://flaviocopes.com/golang-data-structure-binary-search-tree/)
@@ -83,5 +84,5 @@
 # Linux
 * [Linux Foundation](https://www.linuxfoundation.org/)
 
-# Events
+# Events
 * [ABSTRACTIONS: A Cross-Discipline Software Conference for Everyone](https://abstractions.io/)

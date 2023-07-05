@@ -9,3 +9,4 @@
 * [Docsify: Static document site generator on the fly - no build phase.](https://docsify.js.org/)
 * [Shortcut foo](https://www.shortcutfoo.com/)
 * [Lightweight Charts](https://www.tradingview.com/lightweight-charts/)
+* [Find engineering teams that share your values](https://www.keyvalues.com/)

@@ -1,8 +1,9 @@
 # History
 
-## Antartica
+## Naval
 * [Into the unknown](https://www.nationalgeographic.com/magazine/2013/01/mawson-trek/)
 * [Antartic Snow Crusier](https://en.m.wikipedia.org/wiki/Antarctic_Snow_Cruiser)
+* [Salvaging the German High Seas Fleet at Scapa Flow 1924-1931](https://www.naval-history.net/WW1z12aCox.htm)
 
 ## Technology
 * [The core memory inside a Saturn V rocket's computer](http://www.righto.com/2020/03/the-core-memory-inside-saturn-v-rockets.html)
@@ -15,3 +16,4 @@
 * [Ultimate talk to Apollo Computer Guidance (video)](https://www.youtube.com/watch?v=xx7Lfh5SKUQ)
 * [Pájaro carpintero ruso](https://es.wikipedia.org/wiki/P%C3%A1jaro_Carpintero_Ruso)
 * [Six Decades of Software Engineering](https://www.infoq.com/presentations/six-decades-software-engineering/)
+* [How a university got itself banned from the Linux kernel](https://www.theverge.com/2021/4/30/22410164/linux-kernel-university-of-minnesota-banned-open-source)

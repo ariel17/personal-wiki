@@ -25,3 +25,6 @@
 # UX
 * [Free UX books - UXPin](https://www.uxpin.com/studio/ebooks/)
 * [Libro: Miro y Entiendo](http://www.mordecki.com/html/descargamye.php)
+
+# Authors
+* [DrGerli: Macross/Robotech fan fiction](https://www.fanfiction.net/u/4467902/DrGerli)
