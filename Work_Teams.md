@@ -11,17 +11,35 @@
 * [GitLab Communication Guidelines](https://about.gitlab.com/handbook/communication/#effective--responsible-communciation-guidelines)
 * [GitLab: Documentation Style Guide](https://docs.gitlab.com/ee/development/documentation/styleguide.html#documentation-is-the-single-source-of-truth-ssot)
 * [How to Have Hyper-Efficient Communication Within Remote Teams](https://medium.com/swlh/how-to-have-hyper-efficient-communication-within-remote-teams-3e74e87eb762)
+* [Learn Fast and Read Things: why (and how) we started a technical reading group](https://build.affinity.co/learn-fast-and-read-things-why-and-how-we-started-a-technical-reading-group-56a61db515bd)
 
 ## Perfomance
+
 * [Cascading productivity system](https://jmulholland.com/cascading-productivity-system/)
 * [Engineering Productivity Can Be Measured - Just Not How You'd Expect](https://www.okayhq.com/blog/engineering-productivity-can-be-measured)
 
+## Frameworks
+
+* [Frameworks](https://sarahtavel.medium.com/frameworks-12c220e775eb)
+* [Modern Agile](http://modernagile.org/)
+* [Production oriented development](https://paulosman.me/2019/12/30/production-oriented-development.html)
+* [Product Thinking vs. Project Thinking](https://productcoalition.com/product-thinking-vs-project-thinking-380692a2d4e)
+* [The work-centric standup](https://blog.usejournal.com/the-work-centric-standup-cc20205b47ea)
+
+### Software development
+
+* [Pull request size](https://smallbusinessprogramming.com/optimal-pull-request-size/)
+* [Maslow's pyramid of code review](http://www.dein.fr/2015-02-18-maslows-pyramid-of-code-review.html)
+* [Ask HN: How to improve code quality while maintaining decent velocity?](https://news.ycombinator.com/item?id=21730125)
+
 ## Management
+
+* [Common leadership and management mistakes](https://fellow.app/blog/2020/common-leadership-and-management-mistakes/)
+* [Lead Time](https://community.atlassian.com/t5/Jira-questions/Lead-Time/qaq-p/754325)
 * [What does it mean to manage up?](https://www.tinypulse.com/blog/what-does-it-mean-to-manage-up)
 * [Assign problems (not work) to your teams to build extraordinary products](https://leaddev.com/agile-other-ways-working/assign-problems-not-work-your-teams-build-extraordinary-products)
-* [Product Thinking vs. Project Thinking](https://productcoalition.com/product-thinking-vs-project-thinking-380692a2d4e)
 * [A word on ridiculous workloads and deadlines.](https://givegoodux.com/a-word-on-ridiculous-workloads-and-deadlines/)
-* [Frameworks](https://sarahtavel.medium.com/frameworks-12c220e775eb)
+* [Manager's Playbook](https://github.com/ksindi/managers-playbook)
 
 ## Ownership
 
