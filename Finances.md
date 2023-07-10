@@ -9,6 +9,7 @@
 ### AFIP
 
 * [Adherir al monotributo](https://www.argentina.gob.ar/servicio/adherir-al-monotributo)
+* [Reingresar al monotributo](https://serviciosweb.afip.gob.ar/genericos/guiasPasoPaso/VerGuia.aspx?id=396)
 * [Constancia de Inscripción / Opción - Monotributo](https://seti.afip.gob.ar/padron-puc-constancia-internet/ConsultaConstanciaAction.do)
 * [Cuadro de categorías y valores del monotributo](https://www.afip.gob.ar/monotributo/categorias.asp)
 * [Cómo saber mi categoría del monotributo en AFIP](https://eleconomista.com.ar/economia/como-saber-mi-categoria-del-monotributo-en-afip-n59755)
