@@ -12,6 +12,7 @@
 * [GitLab: Documentation Style Guide](https://docs.gitlab.com/ee/development/documentation/styleguide.html#documentation-is-the-single-source-of-truth-ssot)
 * [How to Have Hyper-Efficient Communication Within Remote Teams](https://medium.com/swlh/how-to-have-hyper-efficient-communication-within-remote-teams-3e74e87eb762)
 * [Learn Fast and Read Things: why (and how) we started a technical reading group](https://build.affinity.co/learn-fast-and-read-things-why-and-how-we-started-a-technical-reading-group-56a61db515bd)
+* [Unusual tips to keep Slack from becoming a nightmare - Jade Rubick](https://www.rubick.com/unusual-tips-to-keep-slack-from-becoming-a-nightmare/)
 
 ## Perfomance
 
@@ -26,12 +27,14 @@
 * [Production oriented development](https://paulosman.me/2019/12/30/production-oriented-development.html)
 * [Product Thinking vs. Project Thinking](https://productcoalition.com/product-thinking-vs-project-thinking-380692a2d4e)
 * [The work-centric standup](https://blog.usejournal.com/the-work-centric-standup-cc20205b47ea)
+* [Software Engineering principles to align your teams better](https://principles.dev/)
 
 ### Software development
 
 * [Pull request size](https://smallbusinessprogramming.com/optimal-pull-request-size/)
 * [Maslow's pyramid of code review](http://www.dein.fr/2015-02-18-maslows-pyramid-of-code-review.html)
 * [Ask HN: How to improve code quality while maintaining decent velocity?](https://news.ycombinator.com/item?id=21730125)
+* [My Software Estimation Technique - Jacob Kaplan-Moss](https://jacobian.org/2021/may/25/my-estimation-technique/)
 
 ## Management
 
@@ -42,6 +45,7 @@
 * [A word on ridiculous workloads and deadlines.](https://givegoodux.com/a-word-on-ridiculous-workloads-and-deadlines/)
 * [Manager's Playbook](https://github.com/ksindi/managers-playbook)
 * [The art of self-organizing engineering teams](https://leaddev.com/culture-engagement-motivation/art-self-organizing-engineering-teams)
+* [Barrels and Ammunition](https://www.conordewey.com/blog/barrels-and-ammunition/)
 
 ## Ownership
 

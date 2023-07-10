@@ -34,6 +34,8 @@
 * [Things to know about engineering levels](https://charity.wtf/2020/09/14/useful-things-to-know-about-engineering-levels/)
 * [Your first day as a new engineering manager](https://pragmaticlead.com/posts/your-first-day-as-new-software-engineering-manager)
 * [Maximixing developer effectiveness](https://martinfowler.com/articles/developer-effectiveness.html)
+* [My Leadership Document — 2021 Edition](https://www.subbu.org/articles/2021/my-leadership-document-2021-edition/)
+* [Decision Tree Analysis: How to Make Effective Decisions](https://fellow.app/blog/productivity/decision-tree-analysis-how-to-make-effective-decisions/)
 
 ## Health
 * [Burnout in Software Development Demystified](https://thevaluable.dev/burnout-software-developer/)
