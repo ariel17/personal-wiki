@@ -1,5 +1,9 @@
 # History
 
+# Interesting
+
+* [Scientists unravel the mystery of the Roman 'gate to hell'](https://edition.cnn.com/2018/03/09/world/mystery-gates-to-hell-hierapolis/index.html)
+
 ## Naval
 * [Into the unknown](https://www.nationalgeographic.com/magazine/2013/01/mawson-trek/)
 * [Antartic Snow Crusier](https://en.m.wikipedia.org/wiki/Antarctic_Snow_Cruiser)

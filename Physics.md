@@ -1,2 +1,9 @@
+# Physics
+
+## About the world
+
 * [Why does ice make such peculiar sounds? [duplicate]](https://physics.stackexchange.com/questions/534847/why-does-ice-make-such-peculiar-sounds)
-* [Scientists unravel the mystery of the Roman 'gate to hell'](https://edition.cnn.com/2018/03/09/world/mystery-gates-to-hell-hierapolis/index.html)
+
+## Theorical
+
+* [Stephen Hawking: Everything you need to know about the thesis that 'broke the Internet'](https://www.space.com/stephen-hawking-thesis-guide)

@@ -17,6 +17,7 @@
 
 * [Cascading productivity system](https://jmulholland.com/cascading-productivity-system/)
 * [Engineering Productivity Can Be Measured - Just Not How You'd Expect](https://www.okayhq.com/blog/engineering-productivity-can-be-measured)
+* [SLA vs. SLO vs. SLI: What’s the difference?](https://www.atlassian.com/incident-management/kpis/sla-vs-slo-vs-sli)
 
 ## Frameworks
 
@@ -40,6 +41,7 @@
 * [Assign problems (not work) to your teams to build extraordinary products](https://leaddev.com/agile-other-ways-working/assign-problems-not-work-your-teams-build-extraordinary-products)
 * [A word on ridiculous workloads and deadlines.](https://givegoodux.com/a-word-on-ridiculous-workloads-and-deadlines/)
 * [Manager's Playbook](https://github.com/ksindi/managers-playbook)
+* [The art of self-organizing engineering teams](https://leaddev.com/culture-engagement-motivation/art-self-organizing-engineering-teams)
 
 ## Ownership
 

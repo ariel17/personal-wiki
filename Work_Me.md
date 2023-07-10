@@ -5,8 +5,12 @@
 * [I keep (re)learning this](https://twitter.com/tottinge/status/1329066180733251585)
 * [Reflections After 15 Years of Working as a Software Developer](https://medium.com/better-programming/reflections-after-15-years-working-as-a-software-developer-cabf610f51a0)
 * [A few rules](https://www.collaborativefund.com/blog/a-few-rules/)
-* [If You’re So Successful, Why Are You Still Working 70 Hours a Week?](https://hbr.org/2018/02/if-youre-so-successful-why-are-you-still-working-70-hours-a-week)
 * [68 Percent of Employees Are Disengaged, But There Is a Scientifically Proven Way to Boost Engagement](https://www.inc.com/sonia-thompson/68-percent-of-employees-are-disengaged-but-there-i.html)
+
+## Bias
+
+* [If You’re So Successful, Why Are You Still Working 70 Hours a Week?](https://hbr.org/2018/02/if-youre-so-successful-why-are-you-still-working-70-hours-a-week)
+* [I could build this during the weekend](https://world.hey.com/joaoqalves/i-could-build-this-during-the-weekend-aa093c5e)
 
 ## Perfomance
 * [Welcome to Your 1:1s Repo](https://github.com/sophshep/one-on-one)
