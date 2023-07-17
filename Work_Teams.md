@@ -28,6 +28,7 @@
 * [Product Thinking vs. Project Thinking](https://productcoalition.com/product-thinking-vs-project-thinking-380692a2d4e)
 * [The work-centric standup](https://blog.usejournal.com/the-work-centric-standup-cc20205b47ea)
 * [Software Engineering principles to align your teams better](https://principles.dev/)
+* [Getting Started with Agility: Essential Reading](https://holub.com/reading/)
 
 ### Software development
 

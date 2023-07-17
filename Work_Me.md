@@ -27,6 +27,7 @@
 * [Short Fat Engineers Are Undervalued](https://nested.substack.com/p/short-fat-engineers-are-undervalued)
 * [Software Engineering Leadership is not (Only) About Coding Well](https://gadon.medium.com/software-engineering-leadership-is-not-only-about-coding-well-1d5d1e43029)
 * [Developer progression as a function](https://www.siddharthsarda.com/p/developer-progression-as-a-function)
+* [The engineer/manager pendulum](https://charity.wtf/2017/05/11/the-engineer-manager-pendulum/)
 
 ## Daily work
 

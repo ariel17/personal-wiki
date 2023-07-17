@@ -1,6 +1,10 @@
 # History
 
-# Interesting
+## People
+
+* [The Story Behind the Photo of 10-Year-Old Japanese Boy Carries His Deceased Brother to a Cremation Pyre, 1945](https://vintagenewsdaily.com/the-story-behind-the-photo-of-10-year-old-japanese-boy-carries-his-deceased-brother-to-a-cremation-pyre-1945/)
+
+## Interesting
 
 * [Scientists unravel the mystery of the Roman 'gate to hell'](https://edition.cnn.com/2018/03/09/world/mystery-gates-to-hell-hierapolis/index.html)
 
