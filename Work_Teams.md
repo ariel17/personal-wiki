@@ -29,6 +29,7 @@
 * [The work-centric standup](https://blog.usejournal.com/the-work-centric-standup-cc20205b47ea)
 * [Software Engineering principles to align your teams better](https://principles.dev/)
 * [Getting Started with Agility: Essential Reading](https://holub.com/reading/)
+* [Alignment > Autonomy](https://buildrightside.com/autonomy-alignment)
 
 ### Software development
 
