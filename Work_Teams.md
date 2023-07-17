@@ -13,6 +13,7 @@
 * [How to Have Hyper-Efficient Communication Within Remote Teams](https://medium.com/swlh/how-to-have-hyper-efficient-communication-within-remote-teams-3e74e87eb762)
 * [Learn Fast and Read Things: why (and how) we started a technical reading group](https://build.affinity.co/learn-fast-and-read-things-why-and-how-we-started-a-technical-reading-group-56a61db515bd)
 * [Unusual tips to keep Slack from becoming a nightmare - Jade Rubick](https://www.rubick.com/unusual-tips-to-keep-slack-from-becoming-a-nightmare/)
+* [Documenting architecture decisions](https://cognitect.com/blog/2011/11/15/documenting-architecture-decisions)
 
 ## Perfomance
 
