@@ -9,6 +9,7 @@
 * [New technique links lithium distribution in the brain to depression](https://www.reddit.com/r/science/comments/nkz66m/new_technique_links_lithium_distribution_in_the/)
 * [Green Tea Consumption Is Inversely Associated with the Incidence of Influenza Infection among Schoolchildren in a Tea Plantation Area of Japan](https://academic.oup.com/jn/article/141/10/1862/4630528)
 * [Why outbreaks like coronavirus spread exponentially, and how to “flatten the curve”](https://www.washingtonpost.com/graphics/2020/world/corona-simulator/?itid=hp_hp-top-table-main_virus-simulator520pm%3Ahomepage%2Fstory-ans)
+* [Minicerebros creados en laboratorio desarrollan ojos que pueden ver](https://www.muyinteresante.es/ciencia/30334.html)
 
 ## Practical
 

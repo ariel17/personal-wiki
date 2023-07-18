@@ -29,3 +29,7 @@
 ## Events
 
 * [ABSTRACTIONS: A Cross-Discipline Software Conference for Everyone](https://abstractions.io/)
+
+## Misc
+
+* [18 amazing 🤩 GitHub repositories that will help you 🪄 make a beautiful project - DEV Community](https://dev.to/kerthin/18-amazing-github-repositories-that-will-help-you-make-a-beautiful-project-3pgo)

@@ -31,6 +31,7 @@
 * [Software Engineering principles to align your teams better](https://principles.dev/)
 * [Getting Started with Agility: Essential Reading](https://holub.com/reading/)
 * [Alignment > Autonomy](https://buildrightside.com/autonomy-alignment)
+* [5 Ways to Prioritize Your Engineers’ Time](https://getstream.io/blog/engineer-prioritization/)
 
 ### Software development
 

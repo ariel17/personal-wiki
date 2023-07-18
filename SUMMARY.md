@@ -25,6 +25,7 @@
 * [Self care](Self_Care.md)
 * [Software](Software.md)
 * [Space exploration](Space_Exploration.md)
+* [Spirituality](Spirituality.md)
 * [Stuff](Stuff.md)
 * [Systems: about AI](Systems_AI.md)
 * [Systems: about design](Systems_Design.md)

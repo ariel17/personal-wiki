@@ -11,6 +11,7 @@
 
 * [If You’re So Successful, Why Are You Still Working 70 Hours a Week?](https://hbr.org/2018/02/if-youre-so-successful-why-are-you-still-working-70-hours-a-week)
 * [I could build this during the weekend](https://world.hey.com/joaoqalves/i-could-build-this-during-the-weekend-aa093c5e)
+* [Code-wise, cloud-foolish](https://newsletter.goodtechthings.com/p/code-wise-cloud-foolish)
 
 ## Perfomance
 * [Welcome to Your 1:1s Repo](https://github.com/sophshep/one-on-one)
@@ -28,6 +29,7 @@
 * [Software Engineering Leadership is not (Only) About Coding Well](https://gadon.medium.com/software-engineering-leadership-is-not-only-about-coding-well-1d5d1e43029)
 * [Developer progression as a function](https://www.siddharthsarda.com/p/developer-progression-as-a-function)
 * [The engineer/manager pendulum](https://charity.wtf/2017/05/11/the-engineer-manager-pendulum/)
+* [Ask HN: Managing career progression for those with no interest in progressing? | Hacker News](https://news.ycombinator.com/item?id=28287617)
 
 ## Daily work
 

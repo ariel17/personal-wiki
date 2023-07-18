@@ -1,5 +1,9 @@
 # Operating systems
 
+## Learning
+
+* [os01 | Bootstrap yourself to write an OS from scratch. A book for self-learner.](https://tuhdo.github.io/os01/)
+
 ## Linux
 
 * [Linux Foundation](https://www.linuxfoundation.org/)

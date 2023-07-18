@@ -4,6 +4,7 @@
 
 * [NASA - Apollo In Real Time](https://apolloinrealtime.org/)
 * [I unwrapped Buzz Aldrin’s visor to a 360 sphere to see what he saw. -Attempt #2-](https://www.reddit.com/r/space/comments/ooexmd/i_unwrapped_buzz_aldrins_visor_to_a_360_sphere_to/)
+* [How a long-gone Apollo rocket returned to Earth](https://www.astronomy.com/space-exploration/how-a-long-gone-apollo-rocket-returned-to-earth/)
 
 ## Satellites
 
