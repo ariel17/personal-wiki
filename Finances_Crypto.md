@@ -47,8 +47,45 @@
 * Cardano: Cardax.
 * Polkadot: Polkadex.
 
+## Trading strategies
+
+Strategies can be used simultaneously:
+
+* Swing: Popular. Short/medium term. Capture a % of a price move. Less time,
+  potential short-term profits. Require technical and fundamental analysis. Use
+  1 day chart. Could miss longer term profits.
+* Breakout: Short term trades (hours/days). Potential short term profits.
+  Capture breakout in price. Use 1 day or hours chart. Could miss longer term
+  profits. Needs specific chart setups.
+* Scalping: Intra-day trades (minutes/hours), tiny movements. Requiere lots of
+  time. Uses 5-10 minute charts. Requires more funds. Difficult to implement.
+  Potential short-term profits. Extra opportunities on top of long-term trades.
+* Dollar cost averaging: Investment, NOT trading. NO FOMO. Long-term strategy.
+  Fundamental analysis. No interested in short-term: based on "markets always go
+  up". Low cost. Uses 1 day charts. Can face significant losses over time.
+
+## Order types
+
+* Order book: red -> sellers, green -> buyers. Buyers: best bid -> higest price;
+  sellers -> best offer (ask) -> lowest price. `Spread = higest bid - lowest
+  offer`.
+
+Where to buy 1 BTC? BTC/USDT
+
+* Market order: Choose the amount you trade, but you don't choose the price.
+  Only those offering the amount of BTC you are willing to buy are the ones
+  that set the price. It is very easy to use, but since the market change like
+  crazy, there is the possibility that when you push the "buy" button you get a
+  bad trade.
+* Limit order: I set the buying price and will wait for those that _eventually_
+  will come and sell at that price. We cannot guarantee we will trade the whole
+  order.
+* Stop market order: 
+
 ## Questions
 
 * Token supply distribution
 * What means "fungible"?
 * Fiat currency?
+* Liquidity pools?
+* FOMO?
