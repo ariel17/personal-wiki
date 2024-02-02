@@ -80,7 +80,66 @@ Where to buy 1 BTC? BTC/USDT
 * Limit order: I set the buying price and will wait for those that _eventually_
   will come and sell at that price. We cannot guarantee we will trade the whole
   order.
-* Stop market order: 
+* Stop market order: Choose the amount you trade but don't choose price (not
+  guaranteed). i.e. `If price gets $57,500 sell my BTC with a market order` ->
+  "stop losing my money". Will bet the best price in the market.
+* Stop limit order: Choose the amount you trade, choose the price you trade.
+  Will sell the specific amount with specific price.
+* Stop loss order: like stop limit order. "If the price drops to this level
+  then sell my BTC with a limit or market order". Important for day trading, to
+  mitigate risks. The limit must be below the current trading price.
+* Take profit order: like stop limit order. Important to automate trading in
+  day trading. Must be above the current price. 
+
+## Technical analysis
+
+### Candle charts
+
+* Each candle is a time period.
+* Open, close (final prices), high and low (prices reached in offer) for time
+  period is shown.
+* The color indicates result.
+
+![Candle details](https://upload.wikimedia.org/wikipedia/commons/e/ea/Candlestick_chart_scheme_03-en.svg)
+
+* Bullish and bearish can be used to anticipate and form possible entry points.
+* Bullish pattern: sellers drove price lower during the day. Buyers came in and
+  the price finished higher.
+
+![Hammer pattern](https://a.c-dn.net/c/content/dam/publicsites/igcom/uk/images/ContentImage/hammer.png/jcr:content/renditions/original-size.webp)
+
+* Bearish pattern: Buyer drove prices high. Sellers won and price fell lower.
+
+![Morning star pattern](https://a.c-dn.net/c/content/dam/publicsites/igcom/uk/images/ContentImage/hanging-man.png/jcr:content/renditions/original-size.webp)
+
+* Bullish pattern: An strong reversal in the price action.
+
+![Strong reversal](https://centerpointsecurities.com/wp-content/uploads/2022/08/Bullish-Engulfing-Pattern.png)
+
+### Chart patterns
+
+* Double top: buyers tried twice to push the price higher, but unable. Buyers
+  run out of steam; sellers are in the market. The price would fall off.
+
+![Double top pattern](https://www.investopower.com/wp-content/uploads/2022/01/Double-top_investopower.png)
+
+* Double bottom: Sellers came in twice, but found the support of buyers and
+  happy to pay up. Sellers ran out and buyers need to pay more; buyers in the
+  market.
+
+![Double bottom pattern](https://www.investopower.com/wp-content/uploads/2022/01/Double-Bottom_investopower.png)
+
+* Ascending triangle: Prices are rising in the long run.
+
+![Ascending triangle pattern](https://centerpointsecurities.com/wp-content/uploads/2022/12/Ascending-Triangle-Chart-Pattern-1024x735.png)
+
+### Trends
+
+* Higher highs: high prices even higher in each peak.
+* Lower lows: same but in reversal.
+* Consolidation: steady. This can't last forever. Use this values for stop loss
+  level.
+
 
 ## Questions
 
@@ -89,3 +148,4 @@ Where to buy 1 BTC? BTC/USDT
 * Fiat currency?
 * Liquidity pools?
 * FOMO?
+* More details on order types
