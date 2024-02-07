@@ -12,12 +12,14 @@
 
 ### Guides
 
-* [Guía Impositiva del Software Independiente Argentino (~11 years!)](https://github.com/sergiokas/indie-dev-ar)
+* [Guía Impositiva del Software Independiente Argentino (~2014!)](https://github.com/sergiokas/indie-dev-ar)
 * [Guía definitiva para cobrar dólares desde Argentina trabajando para el exterior - Maximiliano Firtman](https://maxifirtman.medium.com/gu%C3%ADa-definitiva-para-cobrar-d%C3%B3lares-por-trabajos-del-exterior-en-argentina-impuestos-y-1d8ad2683c85)
 * [Paso a paso: cómo recategorizarme en el monotributo 2023](https://eleconomista.com.ar/economia/paso-paso-como-recategorizarme-monotributo-2023-n59045)
 * [¿Tenés una cuenta en dólares en el exterior sin declarar?: lo que hay que hacer si aparece la AFIP](https://www.iproup.com/economia-digital/37376-que-hacer-con-afip-si-tenes-una-cuenta-sin-declarar-en-exterior)
 * [Como recibir dolares del exterior en Balanz](https://www.youtube.com/watch?v=JzGpsS0mTFI&ab_channel=ArielMangani)
 * [Cómo saber mi categoría del monotributo en AFIP](https://eleconomista.com.ar/economia/como-saber-mi-categoria-del-monotributo-en-afip-n59755)
+* [Alta Monotributo Unificado | Paso a Paso AFIP | Guía Completa](https://www.youtube.com/watch?v=6Peexz7GksU)
+* [Cómo Hacer Factura Electrónica para Monotributistas - Tutorial completo - Factura C Monotributo](https://www.youtube.com/watch?v=5kwNR4C3kCk)
 
 ### Discussions
 
