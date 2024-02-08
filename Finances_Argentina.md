@@ -27,6 +27,7 @@
 * [Que harían en mi lugar? Trabajo en el exterior](https://www.reddit.com/r/devsarg/comments/s8zt4b/que_har%C3%ADan_en_mi_lugar_trabajo_en_el_exterior/)
 * [Cómo estar en regla fiscalmente siendo freelancer con Pablo Argento](https://wanderlancers.com/como-estar-en-regla-fiscalmente-siendo-freelancer/)
 * [¿Se puede tener OSDE siendo monotributista?](https://www.reddit.com/r/merval/comments/yljjr0/se_puede_tener_osde_siendo_monotributista/)
+* [Lemon, Belo, Buenbit, Decrypto, Satoshi Tango o Let’s Bit | ¿Cual es el mejor?](https://www.reddit.com/r/merval/comments/ypobua/lemon_belo_buenbit_decrypto_satoshi_tango_o_lets/)
 
 ### Collected
 
