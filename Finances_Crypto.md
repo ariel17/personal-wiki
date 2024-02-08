@@ -140,6 +140,43 @@ Where to buy 1 BTC? BTC/USDT
 * Consolidation: steady. This can't last forever. Use this values for stop loss
   level.
 
+Don't go against the trend since you're going against the market.
+
+### Indicators
+
+Mathematical models that attempt to give context to price action. Can't predict
+the future.
+
+* Moving averages: smooth out price data.
+  * SMA: Arithmetic mean of prices over a given time period.
+  * EMA: weighted and give more importance to recent prices.
+
+![SMA and EMA](https://www.fidelity.com/bin-public/600_Fidelity_Com_English/images/migration/article/content_15-lc/EMA_602x345.png)
+
+[Exponential Moving Average (EMA) explanation](https://www.fidelity.com/learning-center/trading-investing/technical-analysis/technical-indicator-guide/ema)
+
+* Relative Strength Index (RSI): plots the relative strength of the price
+  compared to previous prices. Momentum indicator. Can't predict how the price
+  will change in the future.
+  * Above 70: price is relatively expensive (overbought)
+  * Below 30: price is relatively cheap (oversold)
+
+![RSI](https://www.fidelity.com/bin-public/600_Fidelity_Com_English/images/migration/article/content_19-lc/RSI1_602x345.png)
+
+[Relative Strength Index (RSI) explanation](https://www.fidelity.com/learning-center/trading-investing/technical-analysis/technical-indicator-guide/RSI)
+
+* Average true range: Measure of daily price volatility. The true amount the
+  price could move in a given day; largest probable move in a day based on
+  previous data. Can be used to set our stop-loss.
+
+![Average true range](https://www.fidelity.com/bin-public/600_Fidelity_Com_English/images/migration/article/content_12-lc/ATR_602x345.png)
+
+[Average true range (ATR) explanation](https://www.fidelity.com/learning-center/trading-investing/technical-analysis/technical-indicator-guide/atr)
+
+## Best crypto analysis tools
+
+* Trading view: This platforms have tools for free: Binance, Kraken, KuCoin.
+* [Token Metrics](https://www.tokenmetrics.com/): AI based predictions with paid subscription.
 
 ## Questions
 
