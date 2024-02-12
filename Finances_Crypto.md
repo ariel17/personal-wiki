@@ -3,6 +3,7 @@
 ## Online courses
 
 * [The Ultimate Cryptocurrency Trading Course for Beginners](https://www.youtube.com/watch?v=mQvw5JXXnrQ)
+* [Binance Futures Tutorial 2024 (Step-By-Step Guide)](https://www.youtube.com/watch?v=qw1IaYbfgnE)
 
 ## Finances 101
 
