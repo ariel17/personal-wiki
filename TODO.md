@@ -1,60 +1,91 @@
-* [ELI5: Chest pain during a panic attack can be mistaken for a heart attack. What happens during heightened anxiety that causes chest pain in the absence of a cardiac event?: explainlikeimfive](https://www.reddit.com/r/explainlikeimfive/comments/q7abc7/eli5_chest_pain_during_a_panic_attack_can_be/)
-* [Me gano la vida como Freelancer AMA (no programadores tambien bienvenidos)](https://www.reddit.com/r/argentina/comments/96zhtf/me_gano_la_vida_como_freelancer_ama_no/?utm_medium=android_app&utm_source=share)
+# Tech
+
+* [Gaston Bigio on LinkedIn: El Algoritmo Que Transformo Al Mundo. La Historia De Nasir Ahmed. | 158 comments](https://www.linkedin.com/feed/update/urn:li:activity:6883852297777098752/)
+* [Software Folklore ― Andreas Zwinkau](https://beza1e1.tuxen.de/lore/index.html)
+* [Start coding instantly with Replit's browser-based IDE - Replit](https://replit.com/site/ide)
+* [How to Freaking Find Great Developers By Having Them Read Code | Freaking Rectangle](https://freakingrectangle.com/2022/04/15/how-to-freaking-hire-great-developers/)
 * [Setting up a Go backend for Xterm.js to get a shell over the browser | by Joseph Matthias Goh | Medium](https://joeir.medium.com/setting-up-a-go-backend-for-xterm-js-to-get-a-shell-over-the-browser-508e3be3fb4d)
-* [Physics as Metaphor: The General Temporal Theory in "The Dispossessed" on JSTOR](https://www.jstor.org/stable/24780261?seq=6#metadata_info_tab_contents)
 * [Writing A Twitter Bot in Golang | TutorialEdge.net](https://tutorialedge.net/golang/writing-a-twitter-bot-golang/)
-* [CIDR.xyz](https://cidr.xyz/)
-* [Home / Twitter](https://twitter.com/kamranahmedse/status/1452705940017459201/photo/1)
 * [hello-friend-ng | Hugo Themes](https://themes.gohugo.io/themes/hugo-theme-hello-friend-ng/)
 * [Writing A Twitter Bot in Golang | TutorialEdge.net](https://tutorialedge.net/golang/writing-a-twitter-bot-golang/)
 * [Trojan Source Attacks](https://trojansource.codes/)
 * [AWS Certified Developer Associate Exam Study Path - Tutorials Dojo](https://tutorialsdojo.com/aws-certified-developer-associate/)
-* [OKAY | Why the status quo is so hard to change in engineering teams](https://www.okayhq.com/blog/status-quo-is-so-hard-to-change-in-engineering-teams)
-* [Historia de una epidemia olvidada: La pandemia de gripe española en la argentina, 1918-1919](http://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S1607-050X2010000100012)
-* [Efemérides de hoy: qué pasó un 14 de noviembre   | Hechos que ocurrieron en la Argentina y el mundo        | Página12](https://www.pagina12.com.ar/381525-efemerides-de-hoy-que-paso-un-14-de-noviembre)
-* [https://www.biodigitaljazz.tech/p/how-to-influence-attitudes-on-your]()
-* [Ver "RAJADURA REPARACIÓN DE FACHADA PARA SIEMPRE  GRIETA RAJA PELIGROSA en pared peligrosa/Cracked wall ©" en YouTube](https://youtu.be/3R0DAcl0Fec)
-* [Ver "REPARAR GRIETAS EN PAREDES | Como fabricar grapas e instalación" en YouTube](https://youtu.be/kTP7I0TBrWI)
-* [Damián Catanzaro ⚡️☕️ on Twitter: "Les voy a contar el rulo definitivo para llegar de pesos de tu banco a #Bitcoin sin morir en el intento ni perder todo en comisiones. Son 3 pasos en total, no es complicado pero van a tener que prestar atención! Vamos a usar 2 apps, Belo y Muun. Compartan si les sirvió!" / Twitter](https://twitter.com/DamianCatanzaro/status/1463958251876331525)
 * [GitHub - BlockchainBooks/blockchainbooks.github.io: Blockchain Books](https://github.com/BlockchainBooks/blockchainbooks.github.io)
 * [Solidity, Blockchain, and Smart Contract Course – Beginner to Expert Python Tutorial - YouTube](https://www.youtube.com/watch?v=M576WGiDBdQ&ab_channel=freeCodeCamp.org)
 * [How to: convert asciidoc book to epub/mobi formats – A Programmer's Blog](http://theantway.com/2017/06/how-to-convert-asciidoc-book-to-epubmobi-formats/)
 * [ConsenSys/ethereum-developer-tools-list: A guide to available tools and platforms for developing on Ethereum.](https://github.com/ConsenSys/ethereum-developer-tools-list)
 * [AWS Well-Architected Labs :: AWS Well-Architected Labs](https://www.wellarchitectedlabs.com/)
 * [AWS Well-Architected - Build secure, efficient cloud applications](https://aws.amazon.com/architecture/well-architected/?wa-lens-whitepapers.sort-by=item.additionalFields.sortDate&wa-lens-whitepapers.sort-order=desc)
+
+# Organizations
+
+* [OKAY | Why the status quo is so hard to change in engineering teams](https://www.okayhq.com/blog/status-quo-is-so-hard-to-change-in-engineering-teams)
+* [https://www.biodigitaljazz.tech/p/how-to-influence-attitudes-on-your]()
 * [The Tyranny of Stuctureless](https://www.jofreeman.com/joreen/tyranny.htm)
 * [SAIJ - S - NORMAS PARA LA ERRADICACION DE RUIDOS MOLESTOS](http://www.saij.gob.ar/LPR2001550)
-* [NASA's Probe Took a Video as It "Touched the Sun" and Wow](https://wordpress.futurism.com/nasa-probe-video-touched-the-sun)
 * [On Schelling Points in Organizations | by Alex Komoroske | Dec, 2021 | Medium](https://medium.com/@komorama/on-schelling-points-in-organizations-e90647cdd81b)
-* [Imprimibles 7 Juegos de rol gratis para jugar con niños/as PDF - BaM!](https://bebeamordor.com/imprimibles-10-juegos-de-rol-gratis-para-jugar-con-ninos-as-pdf/)
-* [Super-bright stellar explosion is likely a dying star giving birth to a black hole or neutron star | MIT News | Massachusetts Institute of Technology](https://news.mit.edu/2021/stellar-black-hole-neutron-star-1213)
-* [mypy - Optional Static Typing for Python](http://mypy-lang.org/)
-* [Siete libros para los que se plantean el poliamor como forma de vivir en pareja](https://www.trendencias.com/sexo-y-relaciones/siete-libros-para-que-se-plantean-poliamor-como-forma-vivir-pareja)
-* [#ad Dragon king and Custom sea#ad #fyp#feliznavidad](https://www.tiktok.com/@brooke.cheng/video/7045298510941556014)
-* [Software Folklore ― Andreas Zwinkau](https://beza1e1.tuxen.de/lore/index.html)
-* [Growing plants in lunar soil – The Unconventional Gardener](https://theunconventionalgardener.com/blog/growing-plants-in-lunar-soil/)
 * [Las 12 habilidades centrales de las personas de alto rendimiento laboral - Infobae](https://www.infobae.com/tendencias/talento-y-liderazgo/2021/12/28/las-12-habilidades-centrales-de-las-personas-de-alto-rendimiento-laboral/)
-* [Gaston Bigio on LinkedIn: El Algoritmo Que Transformo Al Mundo. La Historia De Nasir Ahmed. | 158 comments](https://www.linkedin.com/feed/update/urn:li:activity:6883852297777098752/)
-* [Histórico: por primera vez, lograron trasplantar a un hombre un corazón de un cerdo modificado genéticamente - Infobae](https://www.infobae.com/america/ciencia-america/2022/01/10/historico-por-primera-vez-lograron-trasplantar-a-un-hombre-un-corazon-de-un-cerdo-modificado-geneticamente/)
-* [Artists | Sargent House](https://sargenthouse.bandcamp.com/)
-* [Glosario](https://relacionesabiertas.org/glosario)
-* [Want to Be More Innovative and Creative? Science Says Avoid the Dreaded Einstellung Effect | Inc.com](https://www.inc.com/jeff-haden/be-more-innovative-creative-better-solutions-research-how-to-solve-problems-more-effectively.html)
-* [Why does experiencing creative "flow" feel so good? - Big Think](https://bigthink.com/neuropsych/creative-flow/)
+
+# History
+
+* [Efemérides de hoy: qué pasó un 14 de noviembre   | Hechos que ocurrieron en la Argentina y el mundo        | Página12](https://www.pagina12.com.ar/381525-efemerides-de-hoy-que-paso-un-14-de-noviembre)
+* [Historia de una epidemia olvidada: La pandemia de gripe española en la argentina, 1918-1919](http://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S1607-050X2010000100012)
+* [Cuando la inundación de Epecuén hizo flotar a los muertos de Carhué - La Nueva](https://www.lanueva.com/nota/2019-11-3-6-30-26-cuando-la-inundacion-de-epecuen-hizo-flotar-a-los-muertos-de-carhue)
+
+# Albañilería
+
+* [Ver "RAJADURA REPARACIÓN DE FACHADA PARA SIEMPRE  GRIETA RAJA PELIGROSA en pared peligrosa/Cracked wall ©" en YouTube](https://youtu.be/3R0DAcl0Fec)
+* [Ver "REPARAR GRIETAS EN PAREDES | Como fabricar grapas e instalación" en YouTube](https://youtu.be/kTP7I0TBrWI)
+
+# Finances Argentina
+
+* [Damián Catanzaro ⚡️☕️ on Twitter: "Les voy a contar el rulo definitivo para llegar de pesos de tu banco a #Bitcoin sin morir en el intento ni perder todo en comisiones. Son 3 pasos en total, no es complicado pero van a tener que prestar atención! Vamos a usar 2 apps, Belo y Muun. Compartan si les sirvió!" / Twitter](https://twitter.com/DamianCatanzaro/status/1463958251876331525)
+
+# Space exploration
+
+* [Artemis 1 moon rocket gets space station flyover in stunning NASA photo | Space](https://www.space.com/artemis-1-moon-rocket-space-station-nasa-photo)
+* [NASA's Probe Took a Video as It "Touched the Sun" and Wow](https://wordpress.futurism.com/nasa-probe-video-touched-the-sun)
+* [Growing plants in lunar soil – The Unconventional Gardener](https://theunconventionalgardener.com/blog/growing-plants-in-lunar-soil/)
+* [Super-bright stellar explosion is likely a dying star giving birth to a black hole or neutron star | MIT News | Massachusetts Institute of Technology](https://news.mit.edu/2021/stellar-black-hole-neutron-star-1213)
+
+# Games
+
+* [Imprimibles 7 Juegos de rol gratis para jugar con niños/as PDF - BaM!](https://bebeamordor.com/imprimibles-10-juegos-de-rol-gratis-para-jugar-con-ninos-as-pdf/)
+
+# Psychology
+
+* [Siete libros para los que se plantean el poliamor como forma de vivir en pareja](https://www.trendencias.com/sexo-y-relaciones/siete-libros-para-que-se-plantean-poliamor-como-forma-vivir-pareja)
 * [Qué pueden hacer los padres cuando los adolescentes tienen pensamientos suicidas - Infobae](https://www.infobae.com/america/ciencia-america/2022/02/04/que-pueden-hacer-los-padres-cuando-los-adolescentes-tienen-pensamientos-suicidas/)
+* [Why does experiencing creative "flow" feel so good? - Big Think](https://bigthink.com/neuropsych/creative-flow/)
+* [Want to Be More Innovative and Creative? Science Says Avoid the Dreaded Einstellung Effect | Inc.com](https://www.inc.com/jeff-haden/be-more-innovative-creative-better-solutions-research-how-to-solve-problems-more-effectively.html)
+
+# Medicine
+
+* [Histórico: por primera vez, lograron trasplantar a un hombre un corazón de un cerdo modificado genéticamente - Infobae](https://www.infobae.com/america/ciencia-america/2022/01/10/historico-por-primera-vez-lograron-trasplantar-a-un-hombre-un-corazon-de-un-cerdo-modificado-geneticamente/)
+* [‘I want a beer’: Paralysed man communicates first words in months using brain implant](https://finance.yahoo.com/news/want-beer-paralysed-man-communicates-154452109.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cucmVkZGl0LmNvbS8&guce_referrer_sig=AQAAAGdrY1TOxXzFPE6Y4YCfuf6_nuobBWt1MlNKVA1UxtxByHkKer4f-j7OmqYdufhryN07I_JSzMrK7EhCkwAIXDgi93PssB9DA-yTrT-oULIClwzfJ7aqm-TkP4p8rR2qZIsHJpQrnuviU29v8SE-UJMciyt9AV921VSRBF8PsGMh)
+
+# Music
+
+* [Artists | Sargent House](https://sargenthouse.bandcamp.com/)
+
+# Physics
+
+* [Physics as Metaphor: The General Temporal Theory in "The Dispossessed" on JSTOR](https://www.jstor.org/stable/24780261?seq=6#metadata_info_tab_contents)
+* [CIDR.xyz](https://cidr.xyz/)
+* [Home / Twitter](https://twitter.com/kamranahmedse/status/1452705940017459201/photo/1)
+* [mypy - Optional Static Typing for Python](http://mypy-lang.org/)
+* [#ad Dragon king and Custom sea#ad #fyp#feliznavidad](https://www.tiktok.com/@brooke.cheng/video/7045298510941556014)
+* [Glosario](https://relacionesabiertas.org/glosario)
 * [Santiago 🇺🇸🇺🇦 on Twitter: "I'm obsessed with machine learning books. To start your career, a good book will make a world of difference. Here is a book you can't ignore, a one-stop-shop to get started: Machine Learning with PyTorch and Scikit-Learn https://t.co/pen4fF5EaJ Read on ↓ https://t.co/fuzvy2F1y5" / Twitter](https://twitter.com/svpino/status/1504064968706048000)
 * [(2) Para los más pibes del sub... : argentina](https://www.reddit.com/r/argentina/comments/tka8m6/para_los_m%C3%A1s_pibes_del_sub/)
-* [‘I want a beer’: Paralysed man communicates first words in months using brain implant](https://finance.yahoo.com/news/want-beer-paralysed-man-communicates-154452109.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cucmVkZGl0LmNvbS8&guce_referrer_sig=AQAAAGdrY1TOxXzFPE6Y4YCfuf6_nuobBWt1MlNKVA1UxtxByHkKer4f-j7OmqYdufhryN07I_JSzMrK7EhCkwAIXDgi93PssB9DA-yTrT-oULIClwzfJ7aqm-TkP4p8rR2qZIsHJpQrnuviU29v8SE-UJMciyt9AV921VSRBF8PsGMh)
 * [How to conduct a good Programming Interview](https://www.lihaoyi.com/post/HowtoconductagoodProgrammingInterview.html)
 * [Designing Ticketmaster - Grokking the System Design Interview](https://www.educative.io/courses/grokking-the-system-design-interview/YQyq6mBKq4n#2.-Requirements-and-Goals-of-the-System)
 * [donnemartin/system-design-primer: Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.](https://github.com/donnemartin/system-design-primer)
 * [How To Do Less](https://alexturek.com/2022-03-07-How-to-do-less/)
 * [Cómo son los ruidos que alteran el cerebro y se utilizan como drogas auditivas](https://www.ambito.com/lifestyle/drogas/como-son-los-ruidos-que-alteran-el-cerebro-y-se-utilizan-como-auditivas-n5414182)
-* [Artemis 1 moon rocket gets space station flyover in stunning NASA photo | Space](https://www.space.com/artemis-1-moon-rocket-space-station-nasa-photo)
 * [CARDBOARD Robotic Hydraulic Arm](https://www.instructables.com/CARDBOARD-Robotic-Hydraulic-Arm/)
 * [(4) Solution To The Trolley Problem : gifs](https://www.reddit.com/r/gifs/comments/u76roy/solution_to_the_trolley_problem/)
 * [How Cannabis Affects Our Cognition and Psychology - Neuroscience News](https://neurosciencenews.com/cognition-psychology-cannabis-20371/)
-* [Start coding instantly with Replit's browser-based IDE - Replit](https://replit.com/site/ide)
-* [How to Freaking Find Great Developers By Having Them Read Code | Freaking Rectangle](https://freakingrectangle.com/2022/04/15/how-to-freaking-hire-great-developers/)
 * [Having an unsupportive romantic partner is associated with neurophysiological changes in error processing](https://www.psypost.org/2022/04/having-an-unsupportive-romantic-partner-is-associated-with-neurophysiological-changes-in-error-processing-62977)
 * [Why Intelligent Minds Like Elon Musk Embrace the Science-Backed No Round Numbers Rule of Negotiating | Inc.com](https://www.inc.com/jeff-haden/why-intelligent-minds-like-elon-musk-embrace-no-round-numbers-rule-of-negotiating-backed-by-science.html)
 * [Qué hizo Elon Musk el día que compró Twitter: una lección de productividad - Infobae](https://www.infobae.com/america/mundo/2022/04/29/que-hizo-elon-musk-el-dia-que-compro-twitter-una-leccion-de-productividad/)
@@ -83,7 +114,6 @@
 * [Un ingeniero de Google ha charlado sobre la vida y la muerte con un chatbot. Ahora está convencido de que tiene conciencia](https://www.xataka.com/otros/ingeniero-google-ha-charlado-vida-muerte-chatbot-ahora-esta-convencido-que-tiene-conciencia)
 * [Cuando una oportunidad no es para ti: ¿cómo saberlo?](https://lamenteesmaravillosa.com/cuando-oportunidad-no-es-para-ti-como-saberlo/)
 * [Posture Assessed in Health Exam Detects Cognitive Decline - Neuroscience News](https://neurosciencenews.com/posture-cognitive-decline-20803/)
-* [Cuando la inundación de Epecuén hizo flotar a los muertos de Carhué - La Nueva](https://www.lanueva.com/nota/2019-11-3-6-30-26-cuando-la-inundacion-de-epecuen-hizo-flotar-a-los-muertos-de-carhue)
 * [Adaptación hedonista: ¿por qué nunca somos lo suficientemente felices? - La Mente es Maravillosa](https://lamenteesmaravillosa.com/adaptacion-hedonista-por-que-nunca-somos-lo-suficientemente-felices/)
 * [Staring at Yourself During Virtual Chats May Worsen Your Mood - Neuroscience News](https://neurosciencenews.com/mood-self-zoom-20825/)
 * [Por qué los alienígenas podrían estar evitando a la Tierra](https://hipertextual.com/2022/06/alienigenas-podrian-estar-evitando-tierra-teoria)
