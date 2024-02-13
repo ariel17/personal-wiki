@@ -179,6 +179,26 @@ the future.
 * Trading view: This platforms have tools for free: Binance, Kraken, KuCoin.
 * [Token Metrics](https://www.tokenmetrics.com/): AI based predictions with paid subscription.
 
+## Perpetual/delivery contracts
+
+* [Perpetual Futures: What They Are and How They Work](https://www.investopedia.com/what-are-perpetual-futures-7494870)
+* [Strategies for profitable perpetual futures trading](https://www.binance.com/es-AR/feed/post/995410)
+
+![Perpetual vs delivery](https://public.bnbstatic.com/image/cms/blog/20220128/34fe4b6d-5188-4588-aac2-a19754febf11.png)
+
+## Margin ratio
+
+* [Binance Margin Level and Risk Control](https://www.binance.com/en/support/faq/binance-margin-level-and-risk-control-360030493931)
+* [Binance Margin: Diferencias entre el nuevo Isolated Margin y el Cross Margin](https://www.binance.com/es/blog/all/binance-margin-diferencias-entre-el-nuevo-isolated-margin-y-el-cross-margin-421499824684900602)
+
+## Liquidation
+
+* [How to Reduce Your Chances of Getting Liquidated](https://www.binance.com/en/support/faq/how-to-reduce-your-chances-of-getting-liquidated-25edcd7fe0e544839d0847b8cbb2e400)
+
+## Funding rate
+
+* [Introduction to Binance Futures Funding Rates](https://www.binance.com/en/support/faq/introduction-to-binance-futures-funding-rates-360033525031)
+
 ## Questions
 
 * Token supply distribution
