@@ -5,6 +5,7 @@
 * [Books](Books.md)
 * [CLI](CLI.md)
 * [Databases](Databases.md)
+* [Development: Random](Development_Random.md)
 * [DevOps](DevOps.md)
 * [Electronic](Electronic.md)
 * [Finances: Argentina](Finances_Argentina.md)
